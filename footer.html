@@ -10,7 +10,7 @@
         </div>
         <div class="footer-bottom">
           <div class="copyright">
-            #<p>&copy; {{site.time | date: '%Y'}} Crafted & Designed by <a href="https://github.com/artemsheludko">Artem Sheludko</a></p>
+            <p>&copy; {{site.time | date: '%Y'}}</a></p>
           </div>
           <div class="footer-social">
             <ul class="list-reset">
@@ -22,12 +22,12 @@
               <li><a href="{{ site.twitter }}">Twitter</a></li>
               {% else %} {% endif %}
 
-              {% if site.instagram %}
-              <li><a href="{{ site.instagram }}">Instagram</a></li>
+              {% if site.linkedin %}
+              <li><a href="{{ site.linkedin }}">LinkedIn</a></li>
               {% else %} {% endif %}
 
-              {% if site.linkedin %}
-              <li><a href="{{ site.linkedin }}">linkedin</a></li>
+              {% if site.acclaim %}
+              <li><a href="{{ site.acclaim }}">Acclaim</a></li>
               {% else %} {% endif %}
             </ul>
           </div>
