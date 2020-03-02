@@ -10,7 +10,7 @@ url: "https://vninjadfw.github.io/"
 #-------------------------------
 # About Section
 author-name:  Ryan Patel
-#author-avatar: 09.jpg
+author-avatar: about_vninjadfw.jpg
 
 
 #-------------------------------
@@ -43,7 +43,7 @@ mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.
 #-------------------------------
 # Build settings
 markdown: kramdown
-remote_theme: artemsheludko/galada
+#remote_theme: artemsheludko/galada
 permalink: ':title/'
 plugins:
   - jekyll-paginate
