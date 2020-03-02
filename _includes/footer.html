@@ -14,12 +14,12 @@
           </div>
           <div class="footer-social">
             <ul class="list-reset">
-              {% if site.linkedin %}
-              <li><a href="{{ site.linkedin }}">LinkedIn</a></li>
-              {% else %} {% endif %}
-
               {% if site.twitter %}
               <li><a href="{{ site.twitter }}">Twitter</a></li>
+              {% else %} {% endif %}
+
+              {% if site.linkedin %}
+              <li><a href="{{ site.linkedin }}">LinkedIn</a></li>
               {% else %} {% endif %}
 
               {% if site.acclaim %}
