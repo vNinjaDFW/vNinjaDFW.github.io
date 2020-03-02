@@ -9,8 +9,8 @@ Ryan Patel is an experienced Solutions Architect specializing in large scale clo
 
 Areas of expertise include:
 
-★ VMware vSphere Suite, vCSA, ESXi, NSX, vSAN, vROps, vRLI, vRNI, SRM
-★ VMware Cloud on AWS | AWS (EC2, S3, EBS, VPC)
-★ Architecting automation solutions via PowerCLI, JSON, Python
-★ Exceptional technical skills, Business insight and passion for leading the Customer
-★ Matching VMware solutions to the customer’s business needs, challenges, and technical requirements 
+* VMware vSphere Suite, vCSA, ESXi, NSX, vSAN, vROps, vRLI, vRNI, SRM
+* VMware Cloud on AWS | AWS (EC2, S3, EBS, VPC)
+* Architecting automation solutions via PowerCLI, JSON, Python
+* Exceptional technical skills, Business insight and passion for leading the Customer
+* Matching VMware solutions to the customer’s business needs, challenges, and technical requirements 
