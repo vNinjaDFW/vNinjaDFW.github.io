@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-#image: about_vninjadfw.jpg
+image: about_vninjadfw.jpg
 permalink: /about/
 ---
 
