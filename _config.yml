@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: vNinjaDFW | VCIX-DCV丨VCP-NV丨vSAN Specialist丨vExpert**丨vExpert NSX*丨AWS-SAA丨Husband丨Father丨Biker | BBQ | Woodworker | DIYer
+title: vNinjaDFW | Sr. PSO Consultant @VMware丨VCIX-DCV丨VCP-NV丨vSAN Specialist丨vExpert**丨vExpert NSX*丨AWS-SAA丨Husband丨Father丨Biker | BBQ | Woodworker | DIYer
 description: Sr. PSO Consultant @VMware丨VCIX-DCV丨VCP-NV丨vSAN Specialist丨vExpert**丨vExpert NSX*丨AWS-SAA丨Husband丨Father丨Biker | BBQ | Woodworker | DIYer
 
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -9,20 +9,20 @@ url: "https://vninjadfw.github.io/"
 
 #-------------------------------
 # About Section
-author-name:   Natali Anderson
-author-avatar: 09.jpg
+author-name:  Ryan Patel
+#author-avatar: 09.jpg
 
 
 #-------------------------------
 # Contact links
-facebook:  https://www.facebook.com/ryanrpatel
+#facebook:  https://www.facebook.com/ryanrpatel
 twitter:   https://twitter.com/vNinjaDFW
 linkedin:  https://www.linkedin.com/in/ryanpatel/
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: vNinjaDFW # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
