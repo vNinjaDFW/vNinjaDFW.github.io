@@ -3,7 +3,6 @@
 
 title: vNinjaDFW | Sr. PSO Consultant @VMware丨VCIX-DCV丨VCP-NV丨vSAN Specialist丨vExpert**丨vExpert NSX*丨AWS-SAA丨Husband丨Father丨Biker | BBQ | Woodworker | DIYer
 description: Sr. PSO Consultant @VMware丨VCIX-DCV丨VCP-NV丨vSAN Specialist丨vExpert**丨vExpert NSX*丨AWS-SAA丨Husband丨Father丨Biker | BBQ | Woodworker | DIYer
-
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://vninjadfw.github.io/"
 
@@ -15,9 +14,9 @@ author-avatar: about_vninjadfw.jpg
 
 #-------------------------------
 # Contact links
-twitter:   https://twitter.com/vNinjaDFW
-linkedin:  https://www.linkedin.com/in/ryanpatel
-acclaim:  https://www.youracclaim.com/users/vninjadfw/badges?sort=-state_updated_at&page=1
+twitter:  https://twitter.com/vNinjaDFW/
+linkedin: https://www.linkedin.com/in/ryanpatel/
+acclaim:  https://www.youracclaim.com/users/vninjadfw/badges?sort=-state_updated_at&page=1/
 
 
 #-------------------------------
