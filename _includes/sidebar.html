@@ -37,6 +37,12 @@
         <a href="{{ site.linkedin }}" class="social-profiles-link"><i class="ion ion-logo-linkedin"></i></a>
       </li>
       {% else %} {% endif %}
+	  
+	  {% if site.linkedin %}
+      <li class="social-profiles-item">
+        <a href="{{ site.github }}" class="social-profiles-link"><i class="ion ion-logo-github"></i></a>
+      </li>
+      {% else %} {% endif %}
 
       {% if site.acclaim %}
       <li class="social-profiles-item">
