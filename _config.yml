@@ -16,7 +16,8 @@ author-avatar: about_vninjadfw.jpg
 # Contact links
 twitter:  https://twitter.com/vNinjaDFW/
 linkedin: https://www.linkedin.com/in/ryanpatel/
-acclaim:  https://www.youracclaim.com/users/vninjadfw/badges?sort=-state_updated_at&page=1/
+github:   https://github.com/vNinjaDFW
+#acclaim:  https://www.youracclaim.com/users/vninjadfw/badges?sort=-state_updated_at&page=1/
 
 
 #-------------------------------
@@ -42,7 +43,6 @@ mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.
 #-------------------------------
 # Build settings
 markdown: kramdown
-#remote_theme: artemsheludko/galada
 permalink: ':title/'
 plugins:
   - jekyll-paginate
