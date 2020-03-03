@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-#image: about_ryan.jpg
+image: about_ryan.jpg
 permalink: /about/
 ---
 
@@ -23,3 +23,6 @@ Certifications
 * ITIL Foundation
 * LPIC-1
 * Project+
+
+Disclaimer
+Any views or opinions expressed here are strictly my own and not those of my employer (or any past employer). As this is a personal blog, not a corporate blog, I am solely responsible for all content published here. Content published here is not read, reviewed, or approved in advance by my employer and does not necessarily represent or reflect the views or opinions of my employer or any of its divisions, subsidiaries, or business partners.
