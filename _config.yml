@@ -2,6 +2,7 @@
 # General Site Settings
 
 title: vNinjaDFW | Sr. PSO Consultant @VMware丨VCIX-DCV丨VCP-NV丨vSAN Specialist丨vExpert**丨vExpert NSX*丨AWS-SAA丨Husband丨Father丨Biker | BBQ | Woodworker | DIYer
+name: vNinjaDFW | Sr. PSO Consultant @VMware
 description: Sr. PSO Consultant @VMware丨VCIX-DCV丨VCP-NV丨vSAN Specialist丨vExpert**丨vExpert NSX*丨AWS-SAA丨Husband丨Father丨Biker | BBQ | Woodworker | DIYer
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://vninjadfw.github.io/"
