@@ -2,7 +2,7 @@
 layout: post
 title:  Get NSX Versions
 date:   2020-03-09
-image:  
+image:  nsx_logo.jpg
 tags:   [NSX, vExpertNSX, script]
 ---
 On a recent trip to one of my clients, I was asked to obtain the NSX-V version across their vCenters to ensure they were up to date. Most of the time when I have a task such as this that needs to be performed, I will write a script. I do this for multiple reasons. First, I love scripting and the automation levels it brings. Second, I am able to perform a task (while the script is running) and leave my desk or work on other items. Third, I can place the script in a central location and have other team members perform the same task when I'm not there.
