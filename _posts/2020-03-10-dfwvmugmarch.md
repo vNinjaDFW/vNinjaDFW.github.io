@@ -33,5 +33,5 @@ Immediately following the movie, we will have our awesome vSocial from 3-7 pm. L
 
 [LinkedIn](https://linkedin.com/groups/4456622)
 
-[Slack Channel](https://join.slack.com/t/dfwvmugmembers/shared_invite/enQtNjg0NzUzMTMyMDA2LWI4ZTcwMjNkNDZiZDg3MmM5Yjg2NDZlMDY4OWUxZDMyOTVhZDEwMWRiMjA5M2NlMzRmYTQwOWFkNGNkOTVhNzE
+[Slack](https://join.slack.com/t/dfwvmugmembers/shared_invite/enQtNjg0NzUzMTMyMDA2LWI4ZTcwMjNkNDZiZDg3MmM5Yjg2NDZlMDY4OWUxZDMyOTVhZDEwMWRiMjA5M2NlMzRmYTQwOWFkNGNkOTVhNzE
 )
