@@ -25,7 +25,7 @@ Thanks to our SPONSORS!
 
 Immediately following the movie, we will have our awesome vSocial from 3-7 pm. Location is TBD!
 
-<h3 class="widget-title">Subscribe & Follow</h3>
+<h3> Subscribe & Follow </h3>
        {% if site.twitter %}
       <li class="social-profiles-item">
         <a href="{{ "https://twitter.com/DFWVMUG" }}" class="social-profiles-link"><i class="ion ion-logo-twitter"></i></a>
@@ -45,4 +45,6 @@ Immediately following the movie, we will have our awesome vSocial from 3-7 pm. L
       {% else %} {% endif %}
 
 
-https://join.slack.com/t/dfwvmugmembers/shared_invite/enQtNjg0NzUzMTMyMDA2LWI4ZTcwMjNkNDZiZDg3MmM5Yjg2NDZlMDY4OWUxZDMyOTVhZDEwMWRiMjA5M2NlMzRmYTQwOWFkNGNkOTVhNzE
+[DFW VMUG Slack Channel][slacklink]
+
+[slacklink]: https://join.slack.com/t/dfwvmugmembers/shared_invite/enQtNjg0NzUzMTMyMDA2LWI4ZTcwMjNkNDZiZDg3MmM5Yjg2NDZlMDY4OWUxZDMyOTVhZDEwMWRiMjA5M2NlMzRmYTQwOWFkNGNkOTVhNzE
