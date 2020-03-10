@@ -9,7 +9,8 @@ The Dallas-Fort Worth VMware User Group Leadership Team invites you to register 
 
 Come network, learn and have fun!
 
-**REGISTER NOW!**
+[**REGISTER NOW!**][reglink]
+[reglink]:  https://community.vmug.com/events/event-description?CalendarEventKey=bd5d79ae-fece-4a41-95c3-7df2edec2cf9&CommunityKey=728ccc0f-3171-43e8-8cbc-64119afb8c90&Home=%2fcommunities%2flocalcommunityhome
 
 **What:** DFW VMUG Meeting & Studio Movie Grill movie "A Quiet Place: Part II"
 
@@ -19,15 +20,14 @@ Come network, learn and have fun!
 
 Thanks to our SPONSORS!
 
-![]({{site.baseurl}}/zerto-logo.jpg)
-![]({{site.baseurl}}/hp-logo.jpg)
-![]({{site.baseurl}}/vmware-logo.jpg)
+![]({{site.baseurl}}/img/zerto-logo.jpg)
+![]({{site.baseurl}}/img/hp-logo.jpg)
+![]({{site.baseurl}}/img/vmware-logo.jpg)
 
 Immediately following the movie, we will have our awesome vSocial from 3-7 pm. Location is TBD!
 
 <h3 class="widget-title">Subscribe & Follow</h3>
-    <ul class="social-profiles list-reset">
-      {% if site.twitter %}
+       {% if site.twitter %}
       <li class="social-profiles-item">
         <a href="{{ "https://twitter.com/DFWVMUG" }}" class="social-profiles-link"><i class="ion ion-logo-twitter"></i></a>
       </li>
@@ -44,6 +44,6 @@ Immediately following the movie, we will have our awesome vSocial from 3-7 pm. L
         <a href="{{ https://www.linkedin.com/groups/4456622/ }}" class="social-profiles-link"><i class="ion ion-logo-linkedin"></i></a>
       </li>
       {% else %} {% endif %}
-    </ul>
+
 
 https://join.slack.com/t/dfwvmugmembers/shared_invite/enQtNjg0NzUzMTMyMDA2LWI4ZTcwMjNkNDZiZDg3MmM5Yjg2NDZlMDY4OWUxZDMyOTVhZDEwMWRiMjA5M2NlMzRmYTQwOWFkNGNkOTVhNzE
