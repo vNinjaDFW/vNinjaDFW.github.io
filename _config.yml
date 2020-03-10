@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: vNinjaDFW | Sr. PSO Consultant @VMware丨VCIX-DCV丨VCP-NV丨vSAN Specialist丨vExpert**丨vExpert NSX*丨AWS-SAA丨Husband丨Father丨Biker | BBQ | Woodworker | DIYer
-name: vNinjaDFW | Sr. PSO Consultant @VMware
+name: Ryan Patel | Sr. PSO Consultant @VMware
 description: Sr. PSO Consultant @VMware丨VCIX-DCV丨VCP-NV丨vSAN Specialist丨vExpert**丨vExpert NSX*丨AWS-SAA丨Husband丨Father丨Biker | BBQ | Woodworker | DIYer
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://vninjadfw.github.io/"
@@ -18,7 +18,6 @@ author-avatar: about_vninjadfw.jpg
 twitter:  https://twitter.com/vNinjaDFW/
 linkedin: https://www.linkedin.com/in/ryanpatel/
 github:   https://github.com/vNinjaDFW
-#acclaim:  https://www.youracclaim.com/users/vninjadfw/badges?sort=-state_updated_at&page=1/
 
 
 #-------------------------------
@@ -38,7 +37,7 @@ google-analytics: UA-159382822-1 # Add your identifier. For example UA-99631805-
 
 #-------------------------------
 # Newsletter
-mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp: https://github.us19.list-manage.com/subscribe/post?u=577c05b7927cd37c57c02490b&amp;id=b75a6aea5f  # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 
 #-------------------------------
