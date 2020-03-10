@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 image: about_ryan.jpg
 permalink: /about/
 ---
@@ -15,7 +15,7 @@ Ryan Patel is an experienced Solutions Architect specializing in large scale clo
 | VTSP-HCI | VMUG Advisory Council 2020
 | VTSP-NV | VMUG All-Star 2020
 | VTSP-SV
-| VTSP-VMConAWS
+| VTSP-VMware Cloud on AWS
 | VMware Cloud on AWS - SDDC 2019
 | AWS Certified Solutions Architect - Associate
 | vSAN Specialist 2017
