@@ -15,7 +15,7 @@ Ryan Patel is an experienced Solutions Architect specializing in large scale clo
 | VTSP-NV | VMUG All-Star 2020 |
 | VTSP-SV |
 | VTSP-VMConAWS |
-| VMConAWS-SDDC 2019 |
+| VMware Cloud on AWS - SDDC 2019 |
 | AWS Certified Solutions Architect - Associate |
 | vSAN Specialist 2017 |
 | MCSA: Windows Server 2012 |
@@ -26,6 +26,7 @@ Ryan Patel is an experienced Solutions Architect specializing in large scale clo
 | Project+ |
 
 [Certification and Badge Verification][your-acclaim]
+
 [vExpert Directory][vexpert-dir]
 
 [your-acclaim]: https://www.youracclaim.com/users/vninjadfw/badges?sort=-state_updated_at&page=1
