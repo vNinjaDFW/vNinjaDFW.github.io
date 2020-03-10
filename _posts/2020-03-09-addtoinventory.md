@@ -14,6 +14,6 @@ You can also register a virtual machine from a command line in an ESXi host:
 2. Run the command:
     # vim-cmd solo/registervm /vmfs/volumes/datastore_name/VM_directory/VM_name.vmx
 
-Head over to my Script repository to download it and many others.
+Check out my [Scripts Repository][my-scripts] and look for Add_All_VMX_To_Inventory_From_Datastore.ps1 in the VMware folder.
 
-Visit https://github.com/vNinjaDFW/Scripts and look for the VMware folder. (Add_All_VMX_To_Inventory_From_Datastore.ps1)
+[my-scripts]: https://github.com/vNinjaDFW/Scripts/

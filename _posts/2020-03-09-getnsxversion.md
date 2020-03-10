@@ -9,6 +9,6 @@ On a recent trip to one of my clients, I was asked to obtain the NSX-V version a
 
 The majority of my scripts are kept in my repository, but this is a fluid location. I am constantly putting my scripts up there for safe-keeping as well as to share with the vCommunity. As always, if you need something scripted that you don't see in there, reach out to me and I'll see if I can help.
 
-Head over to my Script repository to download it and many others.
+Check out my [Scripts Repository][my-scripts] and look for Get_NSX_Version.ps1 in the VMware folder.
 
-Visit https://github.com/vNinjaDFW/Scripts and look for the VMware folder. (Get_NSX_Version.ps1)
+[my-scripts]: https://github.com/vNinjaDFW/Scripts/
