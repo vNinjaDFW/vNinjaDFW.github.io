@@ -23,6 +23,6 @@ Because of the version of vCenter and ESXi (6.0) that was being used, I knew tha
 
 If you find yourself in a similar position, reach out to me and I'll help walk you thru some of the steps and what needs to happen. There are some configuration changes in the script that will be needed but I can help you with that.
 
-Head over to my Script repository to download it and many others.
+Check out my [Scripts repo][VMware-scripts] and look for MigrateVIO_VMs.ps1.
 
-Visit https://github.com/vNinjaDFW/Scripts and look for the VMware folder and then VM_Migrations. (MigrateVIO_VMs.ps1)
+[VMware-scripts]: https://github.com/vNinjaDFW/Scripts/VMware/
