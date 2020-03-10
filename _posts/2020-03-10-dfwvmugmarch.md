@@ -9,7 +9,8 @@ The Dallas-Fort Worth VMware User Group Leadership Team invites you to register 
 
 Come network, learn and have fun!
 
-[**REGISTER NOW!**][reglink]
+[**REGISTER NOW**][reglink]
+
 [reglink]:  https://community.vmug.com/events/event-description?CalendarEventKey=bd5d79ae-fece-4a41-95c3-7df2edec2cf9&CommunityKey=728ccc0f-3171-43e8-8cbc-64119afb8c90&Home=%2fcommunities%2flocalcommunityhome
 
 **What:** DFW VMUG Meeting & Studio Movie Grill movie "A Quiet Place: Part II"
@@ -20,9 +21,9 @@ Come network, learn and have fun!
 
 Thanks to our SPONSORS!
 
-![]({{site.baseurl}}/img/zerto-logo.jpg)
-![]({{site.baseurl}}/img/hp-logo.jpg)
-![]({{site.baseurl}}/img/vmware-logo.jpg)
+![]({{site.baseurl}}/img/zerto-logo.png)
+![]({{site.baseurl}}/img/hp-logo.png)
+![]({{site.baseurl}}/img/vmware-logo.png)
 
 Immediately following the movie, we will have our awesome vSocial from 3-7 pm. Location is TBD!
 
