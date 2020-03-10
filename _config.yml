@@ -37,7 +37,7 @@ google-analytics: UA-159382822-1 # Add your identifier. For example UA-99631805-
 
 #-------------------------------
 # Newsletter
-mailchimp: https://github.us19.list-manage.com/subscribe/post?u=577c05b7927cd37c57c02490b&amp;id=b75a6aea5f  # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp: https://github.us19.list-manage.com/subscribe/post?u=577c05b7927cd37c57c02490b&amp;id=b75a6aea5f
 
 
 #-------------------------------
