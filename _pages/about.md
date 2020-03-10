@@ -9,22 +9,17 @@ Ryan Patel is an experienced Solutions Architect specializing in large scale clo
 
 <h4>Certifications & Accolades</h4>
 
-Certifications | Accolades
+Certifications & Accolades
 ------------ | -------------
 VCIX-DCV 2020 | VMware vExpert 2019-2020
 VCP-NV 2020 | VMware vExpert NSX 2019
 VTSP-HCI | VMUG Advisory Council 2020
 VTSP-NV | VMUG All-Star 2020
-VTSP-SV
-VTSP-VMConAWS
-VMConAWS-SDDC 2019
-AWS Certified Solutions Architect - Associate
-vSAN Specialist 2017
-MCSA: Windows Server 2012
-Dell SMaC
-Dell DCSE 1000 Enterprise
-ITIL Foundation
-LPIC-1
+VTSP-SV | VTSP-VMConAWS
+VMConAWS-SDDC 2019 | AWS Certified Solutions Architect - Associate
+vSAN Specialist 2017 | MCSA: Windows Server 2012
+Dell SMaC | Dell DCSE 1000 Enterprise
+ITIL Foundation | LPIC-1
 Project+
 
 [Certification and Badge Verification][your-acclaim]
