@@ -25,10 +25,13 @@ Thanks to our SPONSORS!
 
 Immediately following the movie, we will have our awesome vSocial from 3-7 pm. Location is TBD!
 
-<a href="https://twitter.com/dfwvmug"><i class="icon ion-social-twitter"></i></a>
-<a href="https://www.facebook.com/dfwvmug"><i class="icon ion-social-facebook"></i></a>
-<a href="https://linkedin.com/groups/4456622"><i class="icon ion-social-linkedin"></i></a>
+<h3> Subscribe & Follow </h3>
 
-[DFW VMUG Slack Channel][slacklink]
+[Twitter](https://twitter.com/dfwvmug)
 
-[slacklink]: https://join.slack.com/t/dfwvmugmembers/shared_invite/enQtNjg0NzUzMTMyMDA2LWI4ZTcwMjNkNDZiZDg3MmM5Yjg2NDZlMDY4OWUxZDMyOTVhZDEwMWRiMjA5M2NlMzRmYTQwOWFkNGNkOTVhNzE
+[Facebook](https://www.facebook.com/dfwvmug)
+
+[LinkedIn](https://linkedin.com/groups/4456622)
+
+[Slack Channel](https://join.slack.com/t/dfwvmugmembers/shared_invite/enQtNjg0NzUzMTMyMDA2LWI4ZTcwMjNkNDZiZDg3MmM5Yjg2NDZlMDY4OWUxZDMyOTVhZDEwMWRiMjA5M2NlMzRmYTQwOWFkNGNkOTVhNzE
+)
