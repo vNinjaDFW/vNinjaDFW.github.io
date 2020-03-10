@@ -25,7 +25,7 @@ Thanks to our SPONSORS!
 
 Immediately following the movie, we will have our awesome vSocial from 3-7 pm. Location is TBD!
 
-<h3> Subscribe & Follow </h3>
+<h3> **Subscribe & Follow DFW VMUG** </h3>
 
 [Twitter](https://twitter.com/dfwvmug)
 
