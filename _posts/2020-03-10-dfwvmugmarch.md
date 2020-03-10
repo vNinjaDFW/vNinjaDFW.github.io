@@ -25,8 +25,6 @@ Thanks to our SPONSORS!
 
 Immediately following the movie, we will have our awesome vSocial from 3-7 pm. Location is TBD!
 
-<h3> Subscribe & Follow </h3>
-
 <a href="https://twitter.com/dfwvmug"><i class="icon ion-social-twitter"></i></a>
 <a href="https://www.facebook.com/dfwvmug"><i class="icon ion-social-facebook"></i></a>
 <a href="https://linkedin.com/groups/4456622"><i class="icon ion-social-linkedin"></i></a>
