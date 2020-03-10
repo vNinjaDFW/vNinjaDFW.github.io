@@ -25,6 +25,6 @@ Ryan Patel is an experienced Solutions Architect specializing in large scale clo
 * LPIC-1
 * Project+
 
-<h4>Disclaimer</h4>
+[Certification and Badge Verification][your-acclaim]
 
-Any views or opinions expressed here are strictly my own and not those of my employer (or any past employer). As this is a personal blog, not a corporate blog, I am solely responsible for all content published here. Content published here is not read, reviewed, or approved in advance by my employer and does not necessarily represent or reflect the views or opinions of my employer or any of its divisions, subsidiaries, or business partners.
+[your-acclaim]: https://www.youracclaim.com/users/vninjadfw/badges?sort=-state_updated_at&page=1
