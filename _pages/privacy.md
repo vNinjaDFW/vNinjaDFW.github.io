@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy
-image: 
+image: privacy-logo.jpg
 permalink: /privacy/
 ---
 <h4>Website Visitors</h4>
