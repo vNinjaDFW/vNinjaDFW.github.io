@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-image: about_ryan.jpg
+image: about_ryan.png
 permalink: /about/
 ---
 
