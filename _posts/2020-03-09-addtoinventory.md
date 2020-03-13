@@ -3,7 +3,7 @@ layout: post
 title:  Add VMs To Inventory
 date:   2020-03-09
 image:  vm_icon.png
-tags:   [vCenter, SRM, script]
+tags:   [vCenter, SRM, PowerCLI]
 ---
 A few years ago while performing a manual DR test, we ran into an issue with the storage. We had VMware SRM 6.x at the time, but we were testing something out with the Storage team due to some SRM cleanup issues. The storage team created a LUN snapshot and presented it as RO to the DR site. After I added those LUNs to the Hosts, I had to find a way to get all of the VMs registered in vCenter. The problem was that I had almost 50 VMs to register, and I didin't want to browse the LUN, goto the VM folder, and register each VMX file manually.
 
