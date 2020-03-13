@@ -9,15 +9,11 @@ Overnight, my Customer deployed 68 new ESXi Hosts in two Datacenters. That alone
 
 When you deploy a new ESXi Host by default, the local datastore is named "datastore1". If you deployed 34 new hosts in a single vCenter, it would look like:
 
-datastore1
-
-datastore1 (1)
-
-datastore1 (2)
-
-...
-
-datastore1 (33)
+- datastore1
+- datastore1 (1)
+- datastore1 (2)
+- ...
+- datastore1 (33)
 
 As ugly as that looks, and it does, think about this operationally. If we left the datastores the way they are, there's not a FAST way to open the local datastore of a specific Host. I mean, sure you could goto the Host in question, and then goto the local storage. BUT, imagine if you could make it visually appealing and functionally better! The script below and in my repository, will name the local storage and move said datastores into a single Folder.
 
