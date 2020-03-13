@@ -21,7 +21,7 @@ If you had a hostname of vNinja.isawesome.local and it had a local datastore of 
 
 This is just a snippet of the code and will not work without getting the full code from [Scripts Repository][my-scripts]. Look Rename_Local_Datastores.ps1 in the VMware folder for the full script.
 
-```
+```powershell
 Get-Cluster $cluster | Get-VMHost | % { $_ | Get-Datastore | ? {$_.name -match "^*datastore( \(\d+\))?$"} | Set-Datastore -Name "$prefix$($_.name.split(".")[0])"}
 ```
 
