@@ -19,8 +19,10 @@ As ugly as that looks, and it does, think about this operationally. If we left t
 
 If you had a hostname of vNinja.isawesome.local and it had a local datastore of datastore1, using this script the local datastore would change to: local_storage_vNinja
 
-The majority of my scripts are kept in my repository, but this is a fluid location. I am constantly putting my scripts up there for safe-keeping as well as to share with the vCommunity. As always, if you need something scripted that you don't see in there, reach out to me and I'll see if I can help.
+This is just a snippet of the code and will not work without getting the full code from [Scripts Repository][my-scripts]. Look Rename_Local_Datastores.ps1 in the VMware folder for the full script.
 
-Check out my [Scripts Repository][my-scripts] and look for Rename_Local_Datastores.ps1 in the VMware folder.
+```
+Get-Cluster $cluster | Get-VMHost | % { $_ | Get-Datastore | ? {$_.name -match "^*datastore( \(\d+\))?$"} | Set-Datastore -Name "$prefix$($_.name.split(".")[0])"}
+```
 
 [my-scripts]: https://github.com/vNinjaDFW/Scripts/
