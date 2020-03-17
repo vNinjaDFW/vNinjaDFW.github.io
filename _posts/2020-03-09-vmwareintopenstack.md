@@ -9,15 +9,16 @@ In September of 2019, I was "deployed" to New York on a new engagement. While I 
 
 Here's a small table to help map VMware and OpenStack terminology.
 
-VMware | OpenStack Terminology
------------- | -------------
-Nova | Compute
-Cinder | Storage
-Glance | Templates
-Neutron | Network
-Horizon | Web Portal
-KeyStone | Identity Service
-Heat | Orchestration
+|-
+| VMware | OpenStack
+|-
+| Nova | Compute
+| Cinder | Storage
+| Glance | Templates
+| Neutron | Network
+| Horizon | Web Portal
+| KeyStone | Identity Service
+| Heat | Orchestration
 
 Because of the version of vCenter and ESXi (6.0) that was being used, I knew that one of the things we would need to do to the environment was upgrade to 6.7. I had numerous roadblocks during the planning stages, inculding the old and unsupported version of VIO. Right off the bat, I had two options to suggest. First, upgrade in stages from 3.1 to 6.0. Alternatively, which was my recommendation based on my findings, was to evacuate the VIO environment and move the VMs to native VMware. After a few discussions and getting buy-in from the Customer, I wrote a script that would migrate powered-off VMs from VIO to native VMware.
 
