@@ -2,7 +2,7 @@
 layout: post
 title:  DFW VMUG Event on 03/25
 date:   2020-03-10-dfwvmugmarch
-image:  dfwvmug-logo.jpg
+image:  dfwvmug-logo.png
 tags:   [vmug, event]
 ---
 The Dallas-Fort Worth VMware User Group Leadership Team invites you to register for our first VMUG Event of 2020!
