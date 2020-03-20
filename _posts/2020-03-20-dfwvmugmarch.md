@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  CANCELED!!! -- DFW VMUG SMG#1 MOVIE EVENT ON 3/25 -- CANCELED!!!
+title:  DFW VMUG SMG#1 MOVIE EVENT ON 3/25 -- CANCELED!!!
 date:   2020-03-20-dfwvmugmarch
 image:  dfwvmug-logo.png
 tags:   [vmug, event]
 ---
-<h4>CANCELED!!! -- DFW VMUG SMG#1 MOVIE EVENT ON 3/25 -- CANCELED!!!</h4>
+<h4>DFW VMUG SMG#1 MOVIE EVENT ON 3/25 -- CANCELED!!!</h4>
 
 The Dallas-Fort Worth VMware User Group Leadership Team invites you to register for our first VMUG Event of 2020!
 
