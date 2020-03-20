@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  DFW VMUG Event on 03/25
-date:   2020-03-10-dfwvmugmarch
+date:   2020-03-20-dfwvmugmarch
 image:  dfwvmug-logo.png
 tags:   [vmug, event]
 ---
