@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Datacenter Power Consumption - vROPs
+title:  Datacenter Power Consumption Report
 date:   2020-03-23-dcpowerusage
 image:  
 tags:   [vExpert, vROPs]
@@ -10,7 +10,7 @@ Today, I was asked by my client for a way to produce a power consumption report 
 <h5>Enable the Metrics in the Policy (Watt)</h5>
 
 1. Login to vROPs  
-   _Verify that you1 have the necessary access rights to perform this task. Your vRealize Operations Manager administrator can tell you which actions you can perform._
+   _Verify that you have the necessary access rights to perform this task. Your vRealize Operations Manager administrator can tell you which actions you can perform._
 2. After login, click on Administration  
 
 ![]({{site.baseurl}}/img/vrops_1.png)
