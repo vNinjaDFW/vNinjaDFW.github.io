@@ -1,0 +1,246 @@
+{
+   "dashboards": [{
+      "autoswitchEnabled": false,
+      "columnCount": 1,
+      "columnProportion": "1",
+      "creationTime": 1525433535829,
+      "description": "",
+      "disabled": false,
+      "hidden": false,
+      "homeTab": false,
+      "id": "edc47b39-3e93-4f95-845e-9897fed615c0",
+      "importAttempts": 0,
+      "importComplete": true,
+      "isDefault": false,
+      "locked": false,
+      "name": "Power Consumption",
+      "rank": 128,
+      "shared": false,
+      "temporary": false,
+      "userId": "2a87acad-7437-48d5-b749-1785570d6468",
+      "widgetInteractions": [
+         {
+            "type": "metricId",
+            "widgetIdProvider": "0166766f-f4d1-4207-bd41-d3695ff7d4c4",
+            "widgetIdReceiver": "9a968aab-dff7-4196-8b90-8441b2190dfc"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "0166766f-f4d1-4207-bd41-d3695ff7d4c4",
+            "widgetIdReceiver": "7c8c731f-bb28-4ee3-a244-22235ab2fc19"
+         }
+      ],
+      "widgets": [
+         {
+            "collapsed": false,
+            "config": {
+               "boxColumns": 2,
+               "boxHeight": null,
+               "labelSize": 12,
+               "metric": {
+                  "mode": "resourceKind",
+                  "resourceKindMetrics": [{
+                     "colorMethod": 0,
+                     "id": "extModel2052-1",
+                     "isStringMetric": false,
+                     "label": "Power",
+                     "metricKey": "power|power_average",
+                     "metricName": "Power|Power (Watt)",
+                     "metricUnitId": "Watts",
+                     "orangeBound": 35,
+                     "redBound": 50,
+                     "resourceKindId": "resourceKind:id:0_::_",
+                     "resourceKindName": "Cluster Compute Resource",
+                     "unit": "Watts",
+                     "yellowBound": 25
+                  }],
+                  "resourceMetrics": []
+               },
+               "mode": {"layoutMode": "fixedView"},
+               "periodLength": "last7Days",
+               "refreshContent": {"refreshContent": true},
+               "refreshInterval": 300,
+               "resInteractionMode": null,
+               "roundDecimals": null,
+               "selfProvider": {"selfProvider": true},
+               "showMetricName": {"showMetricName": true},
+               "showMetricUnit": {"showMetricUnit": true},
+               "showResourceName": {"showResourceName": true},
+               "showSparkline": {"showSparkline": true},
+               "title": "Cluster Power Usage",
+               "valueSize": 24,
+               "visualTheme": 1
+            },
+            "gridsterCoords": {
+               "h": 6,
+               "w": 3,
+               "x": 1,
+               "y": 1
+            },
+            "height": 324,
+            "id": "6fe9c7ae-7968-44b5-b1ca-dc7266d956da",
+            "title": "Cluster Power Usage",
+            "type": "Scoreboard"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "configs": [{
+                  "attributeKind": {"value": ""},
+                  "color": {
+                     "endColor": "FF0000",
+                     "maxValue": "50",
+                     "middleColor": "FFFF00",
+                     "minValue": "",
+                     "startColor": "00FF00"
+                  },
+                  "colorBy": {
+                     "metricKey": "power|power_average",
+                     "value": "Power|Power (Watt)"
+                  },
+                  "groupBy": {
+                     "id": "004null002006VMWAREClusterComputeResource",
+                     "originalText": "Cluster Compute Resource",
+                     "parentId": "VMWARE",
+                     "parentText": "vCenter Adapter",
+                     "text": "Cluster Compute Resource",
+                     "type": "resourceKind",
+                     "typeId": "resourceKind:id:0_::_"
+                  },
+                  "id": "extModel2319-1",
+                  "mode": {"mode": false},
+                  "name": "VM Power Consumption (Watt) x CPU Usage (%)",
+                  "relationalGrouping": false,
+                  "resourceKind": "resourceKind:id:1_::_",
+                  "sizeBy": {
+                     "metricKey": "cpu|usage_average",
+                     "value": "CPU|Usage (%)"
+                  },
+                  "tagFilter": null,
+                  "thenBy": null
+               }],
+               "refreshContent": {"refreshContent": true},
+               "refreshInterval": 300,
+               "title": "VM Power Consumption (Watt) x CPU Usage (%)",
+               "value": 0
+            },
+            "gridsterCoords": {
+               "h": 6,
+               "w": 3,
+               "x": 1,
+               "y": 7
+            },
+            "height": 324,
+            "id": "0166766f-f4d1-4207-bd41-d3695ff7d4c4",
+            "title": "VM Power Consumption (Watt) x CPU Usage (%)",
+            "type": "Heatmap"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "barsCount": 10,
+               "depth": 10,
+               "filterMode": "tagFilter",
+               "filterOldMetrics": false,
+               "metricOption": {
+                  "metricInfo": {
+                     "path": ["/source/GROUP_power/power|power_average"],
+                     "value": "power|power_average"
+                  },
+                  "resourceKindId": ["resourceKind:id:1_::_"],
+                  "tagFilter": null,
+                  "value": {"metricOption": "metricsHighestUtilization"}
+               },
+               "mode": "metric",
+               "periodLength": {
+                  "dateRange": "last30Days",
+                  "dateRangeText": "Last 30 days"
+               },
+               "refreshContent": {"refreshContent": true},
+               "refreshInterval": 300,
+               "regenerationTime": 15,
+               "selfProvider": {"selfProvider": true},
+               "tagOption": {
+                  "tagFilter": null,
+                  "value": {"tagOption": "leastHealthyApplications"}
+               },
+               "title": "Top-10 VM Power Consumer"
+            },
+            "gridsterCoords": {
+               "h": 12,
+               "w": 1,
+               "x": 4,
+               "y": 1
+            },
+            "height": 666,
+            "id": "0a5afea9-3c51-48e0-a8fa-8622b46ace08",
+            "title": "Top-10 VM Power Consumer",
+            "type": "ParetoAnalysis"
+         },
+         {
+            "collapsed": false,
+            "config": {},
+            "gridsterCoords": {
+               "h": 6,
+               "w": 2,
+               "x": 5,
+               "y": 1
+            },
+            "height": 324,
+            "id": "9a968aab-dff7-4196-8b90-8441b2190dfc",
+            "states": [
+               {
+                  "key": "permDateRange1_permMetricChart_widget_edc47b39-3e93-4f95-845e-9897fed615c0_9a968aab-dff7-4196-8b90-8441b2190dfc",
+                  "value": "s%3A%7B%22dateRange%22%3A%22last6Hour%22%2C%22dateFrom%22%3Anull%2C%22dateTo%22%3Anull%2C%22timeFrom%22%3Anull%2C%22timeTo%22%3Anull%7D"
+               },
+               {
+                  "key": "permBtn_pan_permMetricChart_widget_edc47b39-3e93-4f95-845e-9897fed615c0_9a968aab-dff7-4196-8b90-8441b2190dfc",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "permBtn_zoomAllGraphs_permMetricChart_widget_edc47b39-3e93-4f95-845e-9897fed615c0_9a968aab-dff7-4196-8b90-8441b2190dfc",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "permMetricChart_widget_edc47b39-3e93-4f95-845e-9897fed615c0_9a968aab-dff7-4196-8b90-8441b2190dfc",
+                  "value": "o%3A"
+               }
+            ],
+            "title": "Metric Chart",
+            "type": "MetricChart"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "resource": null,
+               "selfProvider": {"selfProvider": false},
+               "title": "Trend VM Power (Watts)",
+               "viewDefinitionId": "9f814fef-312b-4d3b-bac0-5f9268a1db3c"
+            },
+            "gridsterCoords": {
+               "h": 6,
+               "w": 2,
+               "x": 5,
+               "y": 7
+            },
+            "height": 324,
+            "id": "7c8c731f-bb28-4ee3-a244-22235ab2fc19",
+            "title": "Trend VM Power (Watts)",
+            "type": "View"
+         }
+      ]
+   }],
+   "entries": {"resourceKind": [
+      {
+         "adapterKindKey": "VMWARE",
+         "internalId": "resourceKind:id:1_::_",
+         "resourceKindKey": "VirtualMachine"
+      },
+      {
+         "adapterKindKey": "VMWARE",
+         "internalId": "resourceKind:id:0_::_",
+         "resourceKindKey": "ClusterComputeResource"
+      }
+   ]},
+   "uuid": "1fc89836-298f-4abe-a403-419e84ce6ba1"
+}
