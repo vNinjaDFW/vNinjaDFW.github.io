@@ -9,8 +9,8 @@ Today, I was asked by my client for a way to produce a power consumption report 
 
 <h5>Enable the Metrics in the Policy (Watt)</h5>
 
-1. Login to vROPs
-   (Verify that you have the necessary access rights to perform this task. Your vRealize Operations Manager administrator can tell you which actions you can perform.)
+1. Login to vROPs  
+   _Verify that you1 have the necessary access rights to perform this task. Your vRealize Operations Manager administrator can tell you which actions you can perform._
 2. After login, click on Administration  
 
 ![]({{site.baseurl}}/img/vrops_1.png)
@@ -20,7 +20,7 @@ Today, I was asked by my client for a way to produce a power consumption report 
 ![]({{site.baseurl}}/img/vrops_2.png)
 
 4. Click on the Policy assigned to your Hosts (usually Default)
-5. Click on Edit & goto "Collect Metrics and Properties"
+5. Click on Edit & goto "Collect Metrics and Properties"  
    _You might need to expand your screen here to make sure you can see the "Filter" option_
 6. Type "Watt" in the Filter and hit <ENTER>
 7. Make sure the "State" column shows "Local" and hit <ENTER>  
@@ -37,8 +37,8 @@ Today, I was asked by my client for a way to produce a power consumption report 
 
 ![]({{site.baseurl}}/img/vrops_5.png)
 
-3. Browse to select the downloaded XML file and click Import
-   (The imported view overwrites if a view with the same name exists. All report templates that use the existing view are updated with the imported view.)  
+3. Browse to select the downloaded XML file and click Import  
+   _The imported view overwrites if a view with the same name exists. All report templates that use the existing view are updated with the imported view._  
        
 ![]({{site.baseurl}}/img/vrops_5a.png)
 
