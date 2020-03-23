@@ -5,7 +5,7 @@ date:   2020-03-23-dcpowerusage
 image:  
 tags:   [vExpert, vROPs]
 ---
-Today, I was asked by my client for a way to produce a power consumption report on their ESXi Hosts by Cluster. I wasn't sure initially if this was even possible, but after a quick search, I found a great launch point on the [vRealize Operations Sample Exchange](https://vrealize.vmware.com/sample-exchange/). I'm not going to reinvent the wheel here, but I'm going to list out the steps I took and what my Dashboard looked like when it was completed. Download the [View](../_files/content.xml) & [Dashboard](../_files/dashboard.json) first.
+Today, I was asked by my client for a way to produce a power consumption report on their ESXi Hosts by Cluster. I wasn't sure initially if this was even possible, but after a quick search, I found a great launch point on the [vRealize Operations Sample Exchange](https://vrealize.vmware.com/sample-exchange/). I'm not going to reinvent the wheel here, but I'm going to list out the steps I took and what my Dashboard looked like when it was completed. Download the [View](../_files/content.xml) & [Dashboard](../_files/dashboard.json) before proceeding so you can follow along.
 
 <h5>Enable the Metrics in the Policy (Watt)</h5>
 
