@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Content>
+    <Views>
+        <ViewDef id="9f814fef-312b-4d3b-bac0-5f9268a1db3c">
+            <Title>TREND VM Power(Watt)</Title>
+            <Description/>
+            <SubjectType adapterKind="VMWARE" resourceKind="VirtualMachine" type="descendant"/>
+            <SubjectType adapterKind="VMWARE" resourceKind="VirtualMachine" type="self"/>
+            <Usage>dashboard</Usage>
+            <Usage>report</Usage>
+            <Usage>details</Usage>
+            <Usage>content</Usage>
+            <Controls>
+                <Control id="time-interval-selector_id_245" type="time-interval-selector" visible="false">
+                    <Property name="advancedTimeMode" value="false"/>
+                    <Property name="unit" value="DAYS"/>
+                    <Property name="count" value="7"/>
+                </Control>
+                <Control id="attributes-selector_id_246" type="attributes-selector" visible="false">
+                    <Property name="attributeInfos">
+                        <List>
+                            <Item>
+<Value>
+    <Property name="objectType" value="RESOURCE"/>
+    <Property name="attributeKey" value="power|power_average"/>
+    <Property name="isStringAttribute" value="false"/>
+    <Property name="adapterKind" value="VMWARE"/>
+    <Property name="resourceKind" value="VirtualMachine"/>
+    <Property name="rollUpType" value="NONE"/>
+    <Property name="rollUpCount" value="0"/>
+    <Property name="forecastDays" value="5"/>
+    <Property name="transformations">
+        <List>
+            <Item value="NONE"/>
+            <Item value="TREND"/>
+            <Item value="FORECAST"/>
+        </List>
+    </Property>
+    <Property name="isProperty" value="false"/>
+</Value>
+                            </Item>
+                        </List>
+                    </Property>
+                </Control>
+                <Control id="pagination-control_id_247" type="pagination-control" visible="true">
+                    <Property name="start" value="0"/>
+                    <Property name="size" value="25"/>
+                </Control>
+            </Controls>
+            <DataProviders>
+                <DataProvider dataType="trend-view" id="trend-view_id_244"/>
+            </DataProviders>
+            <Presentation type="line-chart"/>
+        </ViewDef>
+    </Views>
+</Content>
