@@ -9,13 +9,13 @@ Today, I was asked by my client for a way to produce a power consumption report 
 
 <h5>Enable the Metrics in the Policy (Watt)</h5>
 
-    1. Login to vROPs
-       (Verify that you have the necessary access rights to perform this task. Your vRealize Operations Manager administrator can tell you which actions you can perform.)
-    2. After login, click on Administration  
+1. Login to vROPs
+   (Verify that you have the necessary access rights to perform this task. Your vRealize Operations Manager administrator can tell you which actions you can perform.)
+2. After login, click on Administration  
 
 ![]({{site.baseurl}}/img/vrops_1.png)
 
-    3. Goto Policies & Policy Library  
+3. Goto Policies & Policy Library  
 
 ![]({{site.baseurl}}/img/vrops_2.png)
 
