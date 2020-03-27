@@ -43,41 +43,26 @@ _Of course, if either one of these methods had fixed my issue, I wouldn't have a
 
 If the above methods do not fix your issue, you should probably contact VMware GSS or BCS\Premiere if you have that. Here's a summation of what I ended up doing that fixed my issue.
 
-1. Powered down the vCenter Server _(After obtaining a Change Window)_
-2. Created a snapshot while the vCenter Server is in a powered off state for easy roll-back if need be. _(if this had an embedded PSC, we would need to power down all other external and embedded PSCs and snapshot them too, while all are powered off)_
+1. Powered down the vCenter Server _(After obtaining a Change Window)_  
+2. Created a snapshot while the vCenter Server is in a powered off state for easy roll-back if need be. _(if this had an embedded PSC, we would need to power down all other external and embedded PSCs and snapshot them too, while all are powered off)_  
 3. Powered on the vCenter Server and allowed services to start
-4. Stopped the vCenter Server vmware-vpxd service:
-```powershell
-service-control --stop vmware-vpxd
-```
-5. Log into the vCenter Server database 
-```powershell
-/opt/vmware/vpostgres/current/bin/psql -d VCDB -U postgres
-```
-6. Check the value stored in VPX_PARAMETER's "VirtualCenter.AutoManagedIPV4":
-```powershell
-VCDB=# select * from vpx_parameter where name = 'VirtualCenter.AutoManagedIPV4';
-```
-7. Change this to the correct value, and check the value again:
-```powershell
-VCDB=# update vpx_parameter set value = '2.4.6.8' where name = 'VirtualCenter.AutoManagedIPV4';
-VCDB=# select * from vpx_parameter where name = 'VirtualCenter.AutoManagedIPV4';
-```
-8. Check the value for the "management_ip" for all hosts in the vpx_host table:
-```powershell
-VCDB=# select management_ip,dns_name from vpx_host;
-```
-9. Change this value to "NULL" and check the value again:
-```powershell
-VCDB=# update vpx_host set management_ip = NULL where management_ip IS NOT NULL;
-VCDB=# select management_ip,dns_name from vpx_host;
-```
-10. Exit the database
-```powershell
-VCDB=# \q
-```
-11. Start vCenter Server services
-```powershell
-service-control --start vmware-vpxd
-```
+4. Stopped the vCenter Server vmware-vpxd service  
+    service-control --stop vmware-vpxd  
+5. Log into the vCenter Server database  
+    /opt/vmware/vpostgres/current/bin/psql -d VCDB -U postgres  
+6. Check the value stored in VPX_PARAMETER's "VirtualCenter.AutoManagedIPV4":  
+    VCDB=# select * from vpx_parameter where name = 'VirtualCenter.AutoManagedIPV4';  
+7. Change this to the correct value, and check the value again:  
+    VCDB=# update vpx_parameter set value = '2.4.6.8' where name = 'VirtualCenter.AutoManagedIPV4';  
+    VCDB=# select * from vpx_parameter where name = 'VirtualCenter.AutoManagedIPV4';  
+8. Check the value for the "management_ip" for all hosts in the vpx_host table:  
+    VCDB=# select management_ip,dns_name from vpx_host;  
+9. Change this value to "NULL" and check the value again:  
+    VCDB=# update vpx_host set management_ip = NULL where management_ip IS NOT NULL;  
+    VCDB=# select management_ip,dns_name from vpx_host;  
+10. Exit the database  
+    VCDB=# \q  
+11. Start vCenter Server services  
+    service-control --start vmware-vpxd  
+
 Once everything was confirmed correct, I went back and deleted the Snapshots. Alas, the **OLD** vCenter IP is **GONE** forever.
