@@ -10,11 +10,11 @@ After a recent vCenter 6.0 to vCenter 6.7 migration, I ran across an issue from 
 Post-vCenter upgrade to 6.7u3b, I immediately begin seeing vMotions and Alerts showing ESXi Hosts disconnecting and reconnecting. After connecting to the ESXi Host via ssh, I ran the command to check the vpxa.cfg file for the serverIp and serverPort information.
 
 ```powershell
-grep -i server* /etc/vmware/vpxa/vpxa.cfg
 
-/etc/vmware/vpxa/vpxa.cfg: <defaultClientPoolConnectionsPerServer>300</defaultClientPoolConnectionsPerServer>
-/etc/vmware/vpxa/vpxa.cfg: <serverIp>1.2.3.4</serverIp>
-/etc/vmware/vpxa/vpxa.cfg: <serverPort>902</serverPort>
+grep -i server* /etc/vmware/vpxa/vpxa.cfg
+<defaultClientPoolConnectionsPerServer>300</defaultClientPoolConnectionsPerServer>
+<serverIp>1.2.3.4</serverIp>
+<serverPort>902</serverPort>
 ```
 
 From this command, I was able to determine that the serverPort was correct, but the serverIp was the **OLD** vCenter IP. I went to my Google skills and found [VMware's KB Article.](https://kb.vmware.com/s/article/1001493)
@@ -49,31 +49,46 @@ _Of course, if either one of these methods had fixed my issue, I wouldn't have a
 3. Powered on the vCenter Server and allowed services to start
 
 4. Stopped the vCenter Server vmware-vpxd service:
+
 ```powershell
 service-control --stop vmware-vpxd
 ```
+
 5. Log into the vCenter Server database 
 ```powershell
 /opt/vmware/vpostgres/current/bin/psql -d VCDB -U postgres
+```
 
 6. Check the value stored in VPX_PARAMETER's "VirtualCenter.AutoManagedIPV4":
+```powershell
 VCDB=# select * from vpx_parameter where name = 'VirtualCenter.AutoManagedIPV4';
+```
 
 7. Change this to the correct value, and check the value again:
+```powershell
 VCDB=# update vpx_parameter set value = '2.4.6.8' where name = 'VirtualCenter.AutoManagedIPV4';
 VCDB=# select * from vpx_parameter where name = 'VirtualCenter.AutoManagedIPV4';
+```
 
 8. Check the value for the "management_ip" for all hosts in the vpx_host table:
+```powershell
 VCDB=# select management_ip,dns_name from vpx_host;
+```
 
 9. Change this value to "NULL" and check the value again:
+```powershell
 VCDB=# update vpx_host set management_ip = NULL where management_ip IS NOT NULL;
 VCDB=# select management_ip,dns_name from vpx_host;
+```
 
 10. Exit the database
+```powershell
 VCDB=# \q
+```
 
 11. Start vCenter Server services
+```powershell
 service-control --start vmware-vpxd
+```
 
 Once everything was confirmed correct, I went back and deleted the Snapshots. Alas, the **OLD** vCenter IP is **GONE** forever.
