@@ -11,11 +11,11 @@ Ryan Patel is an experienced Solutions Architect specializing in large scale clo
 | **Certifications** | **Accolades**
 |-|:-|:-:|-:
 | VCIX-DCV 2020 | VMware vExpert 2019-2020
-| VCP-NV 2020 | VMware vExpert NSX 2019
-| VTSP-HCI | VMUG Advisory Council 2020
-| VTSP-NV | VMUG All-Star 2020
-| VTSP-SV
-| VTSP-VMware Cloud on AWS
+| VCP-NV 2020 | VMware vExpert NSX 2019-2020
+| VTSP-HCI | VMware vExpert Security 2020
+| VTSP-NV | VMware vExpert Cloud 2020
+| VTSP-SV | VMUG Advisory Council 2020
+| VTSP-VMware Cloud on AWS| VMUG All-Star 2020
 | VMware Cloud on AWS - SDDC 2019
 | AWS Certified Solutions Architect - Associate
 | vSAN Specialist 2017
