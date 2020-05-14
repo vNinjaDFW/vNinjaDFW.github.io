@@ -37,4 +37,4 @@ service-control --restart vmware-imagebuilder
 service-control --restart vmware-rbd-watchdog
 ```
 
-I was then able to go back to the vCenter and import the remaining two Image Profiles that I needed.
+I was then able to go back to the vCenter and import the remaining two Image Profiles that I needed!
