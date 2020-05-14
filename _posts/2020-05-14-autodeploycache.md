@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Autodeploy [Entry Is Too Large To Be Added]
-date:   2020-autodeploycache
+date:   2020-05-14-autodeploycache
 image:  autodeploy.png
 tags:   [vExpert, vCenter, VMUG]
 ---
