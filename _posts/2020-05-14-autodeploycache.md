@@ -2,7 +2,7 @@
 layout: post
 title:  Autodeploy [Entry Is Too Large To Be Added]
 date:   2020-05-14-autodeploycache
-image:  autodeploy.png
+image:  
 tags:   [vExpert, vCenter, VMUG]
 ---
 After another vCenter 6.0 to vCenter 6.7 migration, I had to setup the Auto Deploy Software Depots with the needed Image Profile. As expected, I was able to add one, two, three and even a fourth repo with an Image Profile. When I went to add the fifth, I received an error "Entry is too large to be added to cache, remove any unused depots".
