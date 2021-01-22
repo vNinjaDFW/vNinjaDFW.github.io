@@ -5,17 +5,18 @@ image: about_ryan.jpg
 permalink: /about/
 ---
 
-Ryan Patel is an experienced Cloud Solutions Architect specializing in large scale cloud, virtualization, server and resource management, and design and implementation of virtualized architectures. Proven successes implementing technology and service improvement initiatives. Demonstrated ability to think strategically about business, create technical definition around customer objectives in complex situations, develop solution strategies, motivate & mobilize resources, and deliver end-to-end technology solutions. Experienced with designing, implementing and supporting VMware farms ranging from the VMware hypervisor thru Storage and Network technologies. Proven ability to work independently, with strong organizational and flexibility skills in a team-oriented environment.
+Ryan Patel is a results-driven, customer-focused, highly organized, and analytical Solutions Architect with over 20 years of experience leading, designing, monitoring, and securing large scale infrastructure initiatives. Demonstrated ability to think strategically about business, create technical definition around customer objectives in complex situations, develop solution strategies, motivate & mobilize resources, and deliver end-to-end technology solutions. Unique combination of expert-level technical skills and business acumen to help customers leverage VMware technologies. Proven track record of successfully supporting complex sales cycles from discovery to solution sign off. Outstanding oral and written presentation and communication skills.
 
 |---
 | **Certifications** | **Accolades**
 |-|:-|:-:|-:
-| VCIX-DCV 2020 | VMware vExpert 2019-2020
+| VCIX-DCV 2021 | VMware vExpert 2019-2020
+| OCI-AA 2020 | VMware vExpert Security 2020
 | VCP-NV 2020 | VMware vExpert NSX 2019-2020
-| VTSP-Cloud Foundation | VMware vExpert Security 2020
-| VTSP-HCI | VMware vExpert Cloud Management 2020 
-| VTSP-NV | VMUG Advisory Council 2020
-| VTSP-SV | VMUG All-Star 2020
+| VTSP-Cloud Foundation | VMware vExpert Cloud Management 2020
+| VTSP-HCI | VMUG Advisory Council 2020
+| VTSP-NV | VMUG All-Star 2020
+| VTSP-SV
 | VTSP-VMware Cloud on AWS
 | VMware Cloud on AWS - SDDC 2019
 | AWS Certified Solutions Architect - Associate
