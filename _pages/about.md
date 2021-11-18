@@ -12,7 +12,7 @@ Ryan Patel is a results-driven, customer-focused, highly organized, and analytic
 |-|:-|:-:|-:
 | VCIX-DCV 2021 | VMware vExpert Pro 2021
 | Oracle Cloud Infrastructure 2020 Certified Architect Professional | VMware vExpert 2019-2021
-| VCP-NV 2020 | VMware vExpert Security 2021
+| VCP-NV 2021 | VMware vExpert Security 2021
 | VTSP-Cloud Foundation | VMware vExpert NSX 2019-2021
 | VTSP-HCI | VMware vExpert Cloud Management 2021
 | VTSP-NV | VMUG Advisory Council 2020
