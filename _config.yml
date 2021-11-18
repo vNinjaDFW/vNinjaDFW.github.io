@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
 
-title: vNinjaDFW | Sr. PSO Consultant @VMware
-name: Ryan Patel | Sr. PSO Consultant @VMware
-description: Sr. PSO Consultant @VMware丨VCIX-DCV丨VCP-NV丨vSAN Specialist丨vExpert**丨vExpert NSX*丨AWS-SAA
+title: vNinjaDFW | Cloud Architect @ Oracle
+name: Ryan Patel | Cloud Architect @ Oracle
+description: Cloud Architect @ Oracle丨VCIX-DCV丨VCP-NV丨vSAN Specialist丨vExpert丨vExpert NSX
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://vninjadfw.github.io/"
 
