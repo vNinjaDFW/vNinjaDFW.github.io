@@ -38,3 +38,7 @@ You should see a summary of the Interval, Data Transferred and Bandwidth of the 
 
 
 ![]({{site.baseurl}}/img/bandwidthsummary.png)
+
+My next post dive into VMware HCX performance testing from the command line.
+
+Stay tuned...
