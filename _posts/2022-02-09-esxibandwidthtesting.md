@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Bandwidth Testing between ESXi Hosts
+title:  Bandwidth testing between ESXi hosts
 date:   2022-02-09-esxibandwidthtesting
 image:  bandwidth.png
 tags:   [esxi,iPerf,HCX]
