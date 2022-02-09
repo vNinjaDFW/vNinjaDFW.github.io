@@ -2,7 +2,7 @@
 layout: post
 title:  Bandwidth testing between ESXi hosts
 date:   2022-02-09-esxibandwidthtesting
-image:  bandwidth.png
+image:  iperf3.png
 tags:   [esxi,iPerf,HCX]
 ---
 I know I haven't written on my blog in over a year, but I'm hoping to reconnect with you on a more frequent basis. Now that I'm in a Pre-Sales role with Oracle, my primary functions are centered around [Oracle Cloud VMware Solution.](https://www.oracle.com/cloud/compute/vmware/)
