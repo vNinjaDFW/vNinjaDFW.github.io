@@ -2,14 +2,14 @@
 layout: post
 title:  Bandwidth Testing between ESXi Hosts
 date:   2022-02-09-esxibandwidthtesting
-image:  
+image:  bandwidth.png
 tags:   [esxi,iPerf,HCX]
 ---
 I know I haven't written on my blog in over a year, but I'm hoping to reconnect with you on a more frequent basis. Now that I'm in a Pre-Sales role with Oracle, my primary functions are centered around [Oracle Cloud VMware Solution.](https://www.oracle.com/cloud/compute/vmware/)
 
 I ran into an issue with Network performance and what we believed to be VMware HCX. In order to help pinpoint the bottleneck, I helped the Customer run some performance benchmarks. Many VMware admins might not know that iPerf comes pre-installed with ESXi since 6.5u2, which is the version I'm working with today.
 
-I wasn't able to start iPerf in server mode without first making a copy of it, so here's the command to that.
+I wasn't able to start iPerf in server mode without first making a copy of it, so here's the command to do that.
 
 ```powershell
 # Copy iPerf3 | Cannot start listener without this
@@ -35,5 +35,6 @@ Now go to the other ESXi Host and run the client.
 ```
 
 You should see a summary of the Interval, Data Transferred and Bandwidth of the sender and receiver.
+
 
 ![]({{site.baseurl}}/img/bandwidthsummary.png)
