@@ -32,7 +32,7 @@ tags:   [nsx,linux]
 
 ![]({{site.baseurl}}/img/nsxtbackupscreen.png)
 
-1. Click Start Backup
+12. Click Start Backup
 
 ![]({{site.baseurl}}/img/nsxstartbackup.png)
 
