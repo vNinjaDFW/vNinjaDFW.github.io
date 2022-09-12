@@ -11,7 +11,7 @@ tags:   [nsx,linux]
 2. Select System > Backup & Restore.
 
 3. Click Edit under the SFTP Server label to configure your SFTP server. 
-   The steps in [Deploy Oracle Autonomous Linux VM](../2022-09-12-ocilinux) can help you deploy a Linux VM in Oracle Cloud and configure SFTP.
+   The steps in [Deploy Oracle Autonomous Linux VM](../ocilinux) can help you deploy a Linux VM in Oracle Cloud and configure SFTP.
 
 4. Enter the IP address or FQDN of the backup file server.
 
