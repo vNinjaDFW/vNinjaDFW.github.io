@@ -34,7 +34,7 @@ tags:   [nsx,linux]
 
 12. Click Start Backup
 
-![]({{site.baseurl}}/img/nsxstartbackup.png)
+![]({{site.baseurl}}/img/nsxtstartbackup.png)
 
 You should see a successful backup!
 
