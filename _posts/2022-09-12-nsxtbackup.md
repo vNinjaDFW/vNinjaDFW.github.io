@@ -32,10 +32,10 @@ tags:   [nsx,linux]
 
 ![]({{site.baseurl}}/img/nsxtbackupscreen.png)
 
-12. Click Start Backup
+1. Click Start Backup
 
 ![]({{site.baseurl}}/img/nsxtstartbackup.png)
 
-13. You should see a successful backup!
+1. You should see a successful backup!
 
 ![]({{site.baseurl}}/img/nsxtbackupsuccess.png)
