@@ -6,6 +6,7 @@ image:  nsxtlogo.png
 tags:   [nsx,linux]
 ---
 <h5>Procedure</h5>
+
 1. From a browser, log in with admin privileges to the NSX Manager.
 
 2. Select System > Backup & Restore.
@@ -30,3 +31,11 @@ tags:   [nsx,linux]
 11. Click Save.
 
 ![]({{site.baseurl}}/img/nsxtbackupscreen.png)
+
+1. Click Start Backup
+
+![]({{site.baseurl}}/img/nsxstartbackup.png)
+
+You should see a successful backup!
+
+![]({{site.baseurl}}/img/nsxtbackupsuccess.png)
