@@ -5,20 +5,31 @@ image: about_ryan.jpg
 permalink: /about/
 ---
 
-Ryan Patel is a results-driven, customer-focused, highly organized, and analytical Solutions Architect with over 20 years of experience leading, designing, monitoring, and securing large scale infrastructure initiatives. Demonstrated ability to think strategically about business, create technical definition around customer objectives in complex situations, develop solution strategies, motivate & mobilize resources, and deliver end-to-end technology solutions. Unique combination of expert-level technical skills and business acumen to help customers leverage VMware technologies. Proven track record of successfully supporting complex sales cycles from discovery to solution sign off. Outstanding oral and written presentation and communication skills.
+Ryan Patel is a driven, results-oriented, highly competent Cloud Architect with more than 20 years of experience with large scale datacenter design including Hybrid-Cloud & Software-Defined architectures.
+
+Expertise also includes:
+
+• Pre-Sales
+• Business Development
+• Partner Recruitment & Enablement 
+• Product Management & Go-to Market Strategy
+• Advisory Services
 
 |---
 | **Certifications** | **Accolades**
 |-|:-|:-:|-:
 | VCIX-DCV 2021 | VMware vExpert Pro
-| Oracle Cloud Infrastructure 2020 Certified Architect Professional | Oracle Cloud Infrastructure 2020 Certified Cloud Operations Associate
-| VCP-NV 2021 | VMware vExpert
-| VTSP-Cloud Foundation | VMware vExpert Security
-| VTSP-HCI | VMware vExpert NSX
-| VTSP-NV | VMware vExpert Cloud Management
-| VTSP-SV | VMUG Advisory Council 2020
-| VTSP-VMware Cloud on AWS | VMUG All-Star 2020
+| Oracle Cloud Infrastructure 2020 Certified Architect Professional | VMware vExpert Security
+| Oracle Cloud Infrastructure 2020 Certified Cloud Operations Associate | VMware vExpert Cloud Provider
+| VCP-NV 2021 | VMware vExpert Cloud Management
+| VTSP-Cloud Foundation | VMUG Advisory Council
+| VTSP-HCI |  VMUG All-Star
+| VTSP-NV
+| VTSP-SV
+| VTSP-VMware Cloud on AWS
 | VMware Cloud on AWS - SDDC 2019
+| AWS Certified Solutions Architect - Associate
+| vSAN Specialist 2017
 | MCSA: Windows Server 2012
 | Dell SMaC
 | Dell DCSE 1000 Enterprise
