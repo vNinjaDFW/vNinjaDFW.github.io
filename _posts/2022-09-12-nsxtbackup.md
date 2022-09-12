@@ -6,7 +6,7 @@ image:  nsxtlogo.png
 tags:   [nsx,linux]
 ---
 <h5>Procedure</h5>
-1. From a browser, log in with admin privileges to the NSX Manager or Global Manager at "https://<manager-ip-address>."
+1. From a browser, log in with admin privileges to the NSX Manager or Global Manager at https://<manager-ip-address>.
 
 2. Select System > Backup & Restore.
 
