@@ -36,6 +36,6 @@ tags:   [nsx,linux]
 
 ![]({{site.baseurl}}/img/nsxtstartbackup.png)
 
-* You should see a successful backup!
+13. You should see a successful backup!
 
 ![]({{site.baseurl}}/img/nsxtbackupsuccess.png)
