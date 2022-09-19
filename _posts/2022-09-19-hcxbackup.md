@@ -9,6 +9,7 @@ Previously, we learned how to [Deploy Oracle Autonomous Linux VM](../ocilinux) t
 
 <h5>Procedure</h5>
 1. Log in to the appliance management interface: <https://hcx-ip-or-fqdn:9443>.
+
 2. Navigate to Administration > Troubleshooting > Backup & Restore.
 
    ![]({{site.baseurl}}/img/hcxback1.png)
@@ -27,6 +28,7 @@ Previously, we learned how to [Deploy Oracle Autonomous Linux VM](../ocilinux) t
    e. Click Save
 
 5. Click the Backup and Restore tab.
+
 6. Click Generate.
    *If a backup schedule is configured, the system creates the backup file at the scheduled time.*
 
