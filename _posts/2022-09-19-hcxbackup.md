@@ -3,7 +3,7 @@ layout: post
 title:  Configure VMware HCX Manager Backup
 date:   2022-09-19-hcxbackup
 image:  nsxtlogo.png
-tags:   [nsx,linux]
+tags:   [hcx,linux]
 ---
 Previously, we learned how to [Deploy Oracle Autonomous Linux VM](../ocilinux) to deploy a Linux VM in Oracle Cloud and configure SFTP. If you do not have an SFTP server, I would recommend reading that.
 
