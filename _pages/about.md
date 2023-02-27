@@ -9,11 +9,11 @@ Ryan Patel is a driven, results-oriented, highly competent Cloud Architect with 
 
 Expertise also includes:
 
-• Pre-Sales
-• Business Development
-• Partner Recruitment & Enablement 
-• Product Management & Go-to Market Strategy
-• Advisory Services
+* Pre-Sales
+* Business Development
+* Partner Recruitment & Enablement 
+* Product Management & Go-to Market Strategy
+* Advisory Services
 
 | **Certifications** | **Accolades**
 |-|:-|:-:|-:
