@@ -21,9 +21,9 @@ Expertise also includes:
 | VCIX-DCV 2021 | VMware vExpert Pro
 | Oracle Cloud Infrastructure 2020 Certified Architect Professional | VMware vExpert Security
 | Oracle Cloud Infrastructure 2020 Certified Cloud Operations Associate | VMware vExpert Cloud Provider
-| VCP-NV 2021 | VMware vExpert Cloud Management
+| VCP-NV 2021 | VMUG All-Star
 | VTSP-Cloud Foundation | VMUG Advisory Council
-| VTSP-HCI |  VMUG All-Star
+| VTSP-HCI
 | VTSP-NV
 | VTSP-SV
 | VTSP-VMware Cloud on AWS
