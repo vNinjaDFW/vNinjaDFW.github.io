@@ -15,7 +15,6 @@ Expertise also includes:
 • Product Management & Go-to Market Strategy
 • Advisory Services
 
-|---
 | **Certifications** | **Accolades**
 |-|:-|:-:|-:
 | VCIX-DCV 2021 | VMware vExpert Pro
