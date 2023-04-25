@@ -15,26 +15,6 @@ Expertise also includes:
 * Product Management & Go-to Market Strategy
 * Advisory Services
 
-| **Certifications** | **Accolades**
-|-|:-|:-:|-:
-| VCIX-DCV 2021 | VMware vExpert Pro
-| Oracle Cloud Infrastructure 2020 Certified Architect Professional | VMware vExpert NSX
-| Oracle Cloud Infrastructure 2020 Certified Cloud Operations Associate | VMware vExpert Cloud Provider
-| VCP-NV 2021 | VMUG All-Star
-| VTSP-Cloud Foundation | VMUG Advisory Council
-| VTSP-HCI
-| VTSP-NV
-| VTSP-SV
-| VTSP-VMware Cloud on AWS
-| VMware Cloud on AWS - SDDC 2019
-| vSAN Specialist 2017
-| MCSA: Windows Server 2012
-| Dell SMaC
-| Dell DCSE 1000 Enterprise
-| ITIL Foundation
-| LPIC-1
-| Project+
-
 [Certification and Badge Verification][your-acclaim]
 
 [vExpert Directory][vexpert-dir]
