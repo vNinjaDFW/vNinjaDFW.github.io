@@ -15,7 +15,7 @@ Are you ready for the upcoming VMUG Usercon in Raleigh, NC? I am thrilled to ann
 - **Name:** Carolina VMUG Usercon
 - **Date:** May 9th, 2023
 - **Location:** Sheraton Raleigh Hotel, Raleigh, NC
-- **Registration:** https://my.vmug.com/s/community-event?id=a1Y4x000002D8THEA0
+- [**Registration:**] (https://my.vmug.com/s/community-event?id=a1Y4x000002D8THEA0)
 
 The Carolina VMUG Usercon is a one-day event organized by the VMware User Group (VMUG), an independent, global, customer-led organization that provides resources and support to VMware users worldwide. The event will feature a range of informative sessions, networking opportunities, and vendor exhibits, making it the perfect place to learn, connect, and grow.
 
