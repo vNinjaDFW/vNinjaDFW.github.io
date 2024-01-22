@@ -2,7 +2,7 @@
 layout: post
 title:  Oracle Cloud SSH Key Pair
 date:   2024-01-22
-image:  
+image:  sshkeys.png
 tags:   [oracle, oci]
 ---
 # Create an SSH Key for Oracle Cloud VMware Solution
