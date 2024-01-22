@@ -18,10 +18,10 @@ SSH keys play a crucial role in securing communication between your local machin
    - Log in with your credentials.
 
 2. **Navigate to Compute Instances:**
-   - In the OCI Console, navigate to the "Compute" service.
-
-3. **Launch a New Compute Instance:**
+   - In the OCI Console, navigate to the “Compute” service.
    - Click on "Instances" in the left-hand navigation menu.
+
+3. **Create a New Instance:**
    - Click the "Create Instance" button to launch a new compute instance.
 
 4. **Add SSH Keys:**
