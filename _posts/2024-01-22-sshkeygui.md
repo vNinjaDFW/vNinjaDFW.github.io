@@ -4,6 +4,14 @@ date:   2024-01-22
 image:  
 tags:   [oracle, oci]
 ---
+# Create an SSH Key for Oracle Cloud VMware Solution
+
+Oracle Cloud Infrastructure (OCI) provides a robust and secure cloud computing environment for businesses and developers. One essential aspect of securing your Oracle Cloud VMware Solution is managing SSH keys. In this blog, we'll guide you through the process of creating an SSH key and associating it with your ESXi Hosts.
+
+## Why SSH Keys?
+
+SSH keys play a crucial role in securing communication between your local machine and OCI instances. They provide a secure way of connecting to your compute instances without the need for passwords. By using SSH keys, you enhance the security of your infrastructure and simplify access management.
+
 1. **Login to OCI Console:**
    - Open your web browser and go to the [OCI Console](https://cloud.oracle.com/).
    - Log in with your credentials.
@@ -15,26 +23,16 @@ tags:   [oracle, oci]
    - Click on "Instances" in the left-hand navigation menu.
    - Click the "Create Instance" button to launch a new compute instance.
 
-4. **Configure Compute Instance:**
-   - Fill in the required details for your new compute instance, such as the compartment, display name, availability domain, etc.
-
-5. **Add SSH Key:**
-   - In the "Create Compute Instance" form, scroll down to the "SSH Key" section.
+4. **Add SSH Keys:**
+   - In the "Create Compute Instance" form, scroll down to the "Add SSH Keys" section.
    - Click on the "Generate a key pair for me" option.
 
-6. **Review Key Pair Details:**
+5. **Review Key Pair Details:**
    - The console will generate a new SSH key pair for you.
-   - Review the details, such as the key name and type.
 
-7. **Save SSH Key:**
-   - Click on the "Save SSH Key" button to associate the generated key pair with the new compute instance.
+6. **Save SSH Keys:**
+   - Click on the "Save private Key" button
+   - Click on the "Save public Key" button
 
-8. **Review and Create:**
-   - Complete any other necessary configurations for your new compute instance.
-   - Click on the "Next" button until you reach the "Review" step.
-   - Review your configurations, and if everything looks good, click on the "Create" button.
-
-9. **Connect to the New Instance:**
-   - Once the new compute instance is created, you can connect to it using an SSH client.
-   ```bash
-   ssh -i <path_to_private_key_file> opc@<new_instance_public_ip>
+7. **Oracle Cloud VMware Solution:**
+   - You are now ready to deploy Oracle Cloud VMware Solution!
