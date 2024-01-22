@@ -1,3 +1,9 @@
+layout: post
+title:  Oracle Cloud SSH Key Pair
+date:   2024-01-22
+image:  
+tags:   [oracle, oci]
+---
 1. **Login to OCI Console:**
    - Open your web browser and go to the [OCI Console](https://cloud.oracle.com/).
    - Log in with your credentials.
