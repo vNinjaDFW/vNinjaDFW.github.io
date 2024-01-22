@@ -1,3 +1,4 @@
+---
 layout: post
 title:  Oracle Cloud SSH Key Pair
 date:   2024-01-22
