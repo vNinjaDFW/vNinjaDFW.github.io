@@ -5,7 +5,7 @@ image: me.jpg
 permalink: /about/
 ---
 
-Ryan Patel is a driven, results-oriented, highly competent Cloud Architect with more than 20 years of experience with large scale datacenter design including Hybrid-Cloud & Software-Defined architectures.
+Ryan Patel is a results-driven Cloud Architect with over 20 years of experience in designing large-scale data centers. His expertise spans hybrid-cloud solutions and software-defined architectures, delivering innovative, scalable, and efficient infrastructures tailored to modern business needs.
 
 Expertise also includes:
 
