@@ -7,13 +7,13 @@ permalink: /about/
 
 Ryan Patel is a results-driven Cloud Architect with over 20 years of experience in designing large-scale data centers. His expertise spans hybrid-cloud solutions and software-defined architectures, delivering innovative, scalable, and efficient infrastructures tailored to modern business needs.
 
-Expertise also includes:
+Additional areas of expertise include:
 
-* Pre-Sales
-* Business Development
+* Pre-Sales Strategy
+* Business Development and Growth
 * Partner Recruitment & Enablement 
-* Product Management & Go-to Market Strategy
-* Advisory Services
+* Product Management & Go-to Market Planning
+* Advisory and Consulting Services
 
 [Certification and Badge Verification][your-acclaim]
 
