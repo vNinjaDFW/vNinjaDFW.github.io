@@ -1,3 +1,10 @@
+---
+layout: post
+title:  OCI Test Drive - CA
+date:   2024-12-18
+image:  
+tags:   [vExpert, VMUG, OCI, VMware, Broadcom]
+---
 # Oracle Cloud VMware Solution Test Drive
 
 Join us for an **instructor-led, hands-on session** exploring the newest features of the Oracle Cloud VMware Solution (OCVS). This session focuses on deploying and managing a **hybrid data center** within Oracle Cloud Infrastructure (OCI), providing a comprehensive introduction to OCVS.
@@ -8,7 +15,7 @@ If you're considering migrating your VMware VMs to OCI, this workshop offers a p
 
 During this session, attendees will:
 
-- **Deploy OCVS on OCI**
+- **Deploy Oracle Cloud VMware Solution on OCI**
 - **Enhance storage capabilities** using OCI Block Volumes
 - **Migrate virtual machines** to OCVS with HCX
 - **Integrate third-party solutions**, including backup with Veeam
