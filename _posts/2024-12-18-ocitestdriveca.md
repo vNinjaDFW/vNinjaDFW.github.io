@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  OCI Test Drive - CA
+title:  Oracle Cloud VMware Solution Test Drive - CA
 date:   2024-12-18
 image:  
 tags:   [vExpert, VMUG, OCI, VMware, Broadcom]
