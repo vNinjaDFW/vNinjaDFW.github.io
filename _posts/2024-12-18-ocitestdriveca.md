@@ -7,37 +7,41 @@ tags:   [vExpert, VMUG, OCI, VMware, Broadcom]
 ---
 # Oracle Cloud VMware Solution Test Drive
 
-Join us for an **instructor-led, hands-on session** exploring the newest features of the Oracle Cloud VMware Solution (OCVS). This session focuses on deploying and managing a **hybrid data center** within Oracle Cloud Infrastructure (OCI), providing a comprehensive introduction to OCVS.
+Join us for an **instructor-led, hands-on session** exploring the latest features of the Oracle Cloud VMware Solution (OCVS). This session focuses on deploying and managing a **hybrid data center** within Oracle Cloud Infrastructure (OCI).  
 
-If you're considering migrating your VMware VMs to OCI, this workshop offers a perfect opportunity to experience how OCVS replicates your **on-premises VMware environment** in the cloud.
+If you're considering migrating your VMware VMs to OCI, this workshop offers a perfect opportunity to experience how OCVS replicates your **on-premises VMware environment** in the cloud.  
 
-## Workshop Highlights
+👉 [**Register Now**](https://eventreg.oracle.com/profile/form/index.cfm?PKformID=0x103332843094&source=)  
 
-During this session, attendees will:
+---
+**Where:**  
+Oracle Office - Redwood Shores  
+Oracle Parkway,  
+Redwood City, California 94065  
 
-- **Deploy Oracle Cloud VMware Solution on OCI**
-- **Enhance storage capabilities** using OCI Block Volumes
-- **Migrate virtual machines** to OCVS with HCX
-- **Integrate third-party solutions**, including backup with Veeam
+**When:**  
+**January 23, 2025**  
+**11:30 AM - 5:45 PM**  
 
-## Agenda
+---
 
-### **12:30 PM**  
-- Registration and Lunch  
+## Workshop Highlights  
 
-### **1:30 PM**  
-- OCVS Overview  
+- Deploy OCVS on OCI  
+- Enhance storage with OCI Block Volumes  
+- Migrate virtual machines to OCVS with HCX  
+- Integrate third-party solutions like Veeam  
 
-### **2:00 PM**  
-- Lift & Shift VMware Virtual Machine to Oracle Cloud VMware Solution  
+---
 
-### **3:30 PM**  
-- Conclusion  
+## Agenda  
 
-### **3:45 PM**  
-- Networking Happy Hour  
+**11:30 AM**: Check-In and Lunch  
+**12:30 PM**: OCVS Overview  
+**2:00 PM**: VMware VM Migration to OCVS  
+**3:30 PM**: Conclusion  
+**3:45 PM**: Networking Happy Hour  
 
-## Register Now  
-[Click here to register](https://eventreg.oracle.com/profile/form/index.cfm?PKformID=0x103332843094&source=)
+---
 
-Don't miss this opportunity to learn and network with peers as you explore the power of OCVS.
+Don’t miss this opportunity to learn and network with peers as you explore the power of OCVS.  
