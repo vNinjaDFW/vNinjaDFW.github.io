@@ -12,6 +12,10 @@ Oracle
 7453 TG Lee Boulevard  
 Orlando, FL 32822  
 
+**When:**  
+**February 4, 2025**  
+8:30 AM – 2:00 PM  
+
 **Registration Link:**  
 [Sign up here!](https://eventreg.oracle.com/profile/form/index.cfm?PKformID=0x105267049fc8&source=)
 
