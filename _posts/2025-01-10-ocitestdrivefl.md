@@ -5,7 +5,6 @@ date:   2025-01-10
 image:  
 tags:   [vExpert, VMUG, OCI, VMware, Broadcom]
 ---
-
 # Upcoming Multi-Cloud Event: Oracle Cloud VMware Solution (OCVS)
 
 **Location:**  
