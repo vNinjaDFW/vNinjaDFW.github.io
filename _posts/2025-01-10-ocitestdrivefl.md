@@ -8,10 +8,9 @@ tags:   [vExpert, VMUG, OCI, VMware, Broadcom]
 # Upcoming Multi-Cloud Event: Oracle Cloud VMware Solution (OCVS)
 
 **Location:**  
-Oracle
-7453 TG Lee Boulevard
+Oracle 
+7453 TG Lee Boulevard 
 Orlando, FL 32822
-United States
 
 **Registration Link:**  
 [Sign up here!](https://eventreg.oracle.com/profile/form/index.cfm?PKformID=0x105267049fc8&source=)
