@@ -38,10 +38,12 @@ During this event, you'll gain valuable insights into:
 
 ### Agenda  
 
-**8:30 AM – 9:00 AM**  Continental Breakfast & Registration  
-**9:00 AM – 9:45 AM**  Oracle Cloud VMware Solution Overview  
-**9:45 AM – 11:45 AM**  Oracle Cloud VMware Solution Hands-on Lab  
-**11:45 AM – 12:15 PM**  Lunch  
+| **Time**          | **Session**                                |
+|--------------------|--------------------------------------------|
+| 8:30 AM – 9:00 AM | Continental Breakfast & Registration       |
+| 9:00 AM – 9:45 AM | Oracle Cloud VMware Solution Overview      |
+| 9:45 AM – 11:45 AM| Oracle Cloud VMware Solution Hands-on Lab  |
+| 11:45 AM – 12:15 PM| Lunch                                     |
 
 ---
 
