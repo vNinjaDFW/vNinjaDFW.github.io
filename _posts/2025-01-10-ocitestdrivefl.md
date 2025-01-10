@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Multi-Cloud Event: Orlando
+title:  Multi-Cloud Event - Orlando
 date:   2025-01-10
 image:  
 tags:   [vExpert, VMUG, OCI, VMware, Broadcom]
