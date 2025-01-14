@@ -17,7 +17,7 @@ Oracle
 Orlando, FL 32822  
 
 **Registration Link:**  
-[Sign up here!](https://eventreg.oracle.com/profile/form/index.cfm?PKformID=0x105267049fc8&source=)
+[Sign up here!](https://eventreg.oracle.com/profile/form/index.cfm?PKformID=0x105267049fc8&source=CORP241121P00018:so:li:or:awr:ot:::Linkedin&SC=:so:li:or:awr:ot:::Linkedin&pcode=CORP241121P00018)
 
 ---
 
