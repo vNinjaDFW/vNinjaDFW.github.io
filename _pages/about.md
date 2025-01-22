@@ -4,16 +4,21 @@ title: About Me
 image: me.jpg
 permalink: /about/
 ---
+Hello! I’m Ryan Patel, a results-driven Cloud Architect with over 25 years of experience in designing and implementing large-scale data centers. My expertise lies in hybrid-cloud solutions and software-defined architectures, where I focus on delivering innovative, scalable, and efficient infrastructures tailored to meet the evolving needs of modern businesses.  
 
-Ryan Patel is a results-driven Cloud Architect with over 20 years of experience in designing large-scale data centers. His expertise spans hybrid-cloud solutions and software-defined architectures, delivering innovative, scalable, and efficient infrastructures tailored to modern business needs.
+In addition to my professional work, I am proud to serve as a VMUG (VMware User Group) Leader for the Dallas/Fort Worth region. Being part of this vibrant community allows me to connect with industry professionals, share knowledge, and drive impactful discussions around VMware technologies.  
 
-Additional areas of expertise include:
+## Areas of Expertise  
 
-* Pre-Sales Strategy
-* Business Development and Growth
-* Partner Recruitment & Enablement 
-* Product Management & Go-to Market Planning
-* Advisory and Consulting Services
+- **Hybrid-Cloud Solutions**  
+- **Software-Defined Architectures**  
+- **Pre-Sales Strategy**  
+- **Business Development & Growth**  
+- **Partner Recruitment & Enablement**  
+- **Product Management & Go-to-Market Planning**  
+- **Advisory & Consulting Services**  
+
+Feel free to connect with me if you'd like to discuss cloud strategies, VMware technologies, or any of the areas above. I’m always excited to share insights and learn from others in the tech community!  
 
 [Certification and Badge Verification][your-acclaim]
 
