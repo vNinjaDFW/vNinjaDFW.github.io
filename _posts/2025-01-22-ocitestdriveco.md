@@ -17,8 +17,7 @@ Oracle
 Denver, CO 80237  
 
 **Registration Link:**  
-[Sign up here!](https://eventreg.oracle.com/profile/form/index.cfm?PKformID=0x10547243a7d4&source=CORP241204P00033:so:li:or:dg:ocl:::Linkedin&SC=:so:li:or:dg:ocl:::Linkedin&pcode=CORP241204P00033)
-
+👉 [Register now to secure your spot][registration]
 ---
 
 ## Event Details  
@@ -49,4 +48,6 @@ During this event, you'll gain valuable insights into:
 
 Don't miss this chance to learn, network, and experience first-hand how Oracle Cloud VMware Solution can transform your hybrid cloud strategy.  
 
-👉 [Register now](https://eventreg.oracle.com/profile/form/index.cfm?PKformID=0x10547243a7d4&source=CORP241204P00033:so:li:or:dg:ocl:::Linkedin&SC=:so:li:or:dg:ocl:::Linkedin&pcode=CORP241204P00033) to secure your spot!
+👉 [Register now to secure your spot][registration]
+
+[registration]: https://eventreg.oracle.com/profile/form/index.cfm?PKformID=0x10547243a7d4&source=CORP241204P00033:so:li:or:dg:ocl:::Linkedin&SC=:so:li:or:dg:ocl:::Linkedin&pcode=CORP241204P00033
