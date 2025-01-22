@@ -18,6 +18,7 @@ Denver, CO 80237
 
 **Registration Link:**  
 👉 [Register now to secure your spot][registration]
+
 ---
 
 ## Event Details  
