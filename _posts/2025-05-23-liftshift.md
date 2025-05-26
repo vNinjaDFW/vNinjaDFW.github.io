@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lift and Shift Without the Pain: Real-World Use Cases for Migrating VMware Workloads to OCVS"
-date: 2025-05-23
+date: 2025-05-26
 tags: [ocvs, vmware, migration, liftandshift, cloudjourney, oracle]
 ---
 
