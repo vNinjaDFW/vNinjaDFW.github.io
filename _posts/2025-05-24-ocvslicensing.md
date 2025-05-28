@@ -14,16 +14,16 @@ Here’s a breakdown of what you get with OCVS and how it compares with other VM
 Each OCVS node includes:
 
 - **vSphere** for compute management  
-- **vSAN** for hyperconverged storage  
+- **vSAN** for hyperconverged storage (Dense Shapes only)
 - **NSX** for network virtualization and security  
 - **vCenter Server**  
-- **HCX Advanced** for workload migration  
+- **HCX Advanced** for workload migration (Enterprise version also available)
 
 **All licenses are bundled**—you don’t have to bring your own VMware license or deal with complex calculations.
 
 ## 💰 Pricing Model
 
-OCVS uses a **per-host hourly or monthly pricing** model based on the shape (e.g., BM.Standard.E3) you choose.
+OCVS uses a **per-host hourly, monthly, yearly (1 or 3) pricing** model based on the shape (e.g., BM.Standard.E3) you choose.
 
 You are billed for:
 - **Bare metal compute**
