@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VMware Licensing in the Cloud: Decoding OCVS Pricing and What It Includes"
-date: 2025-05-24
+date: 2025-05-28
 tags: [vmware, licensing, ocvs, pricing, broadcom, oracle]
 ---
 
