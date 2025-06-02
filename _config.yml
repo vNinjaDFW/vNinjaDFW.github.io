@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
 
-title: vNinjaDFW | Principal Cloud Architect @ Oracle
-name: Ryan Patel | Principal Cloud Architect @ Oracle
-description: Principal Cloud Architect @ Oracle丨VCIX-DCV丨VCP-NV丨vExpert PRO
+title: vNinjaDFW | Master Principal Cloud Architect @ Oracle
+name: Ryan Patel | Master Principal Cloud Architect @ Oracle
+description: Master Principal Cloud Architect @ Oracle丨VCIX-DCV丨VCP-NV丨vExpert PRO
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://vninjadfw.github.io/"
 
