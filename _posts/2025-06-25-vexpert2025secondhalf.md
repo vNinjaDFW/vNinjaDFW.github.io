@@ -2,7 +2,6 @@
 layout: post
 title: "vExpert 2025 Second-Half Applications Open July 7!"
 date: 2025-06-25
-image: vexpert.png
 tags: [vmware, broadcom, vexpert, virtualization, community, advocacy, career, vmug]
 ---
 
@@ -44,22 +43,6 @@ The **vExpert 2025 Second-Half** application window runs **July 7 – July 24**.
    * Let peers know you’ve applied—visibility matters!  
 
 > **Tip:** First-time applicant? Focus on consistent community impact rather than quantity alone.
-
----
-
-## 📣 Social Toolkit (Use on July 7)
-
-### Tweet / X
-> 🚨 Applications for **#vExpert 2025** (Second Half) open TODAY! If you’re blogging, speaking, or helping the @VMware community, apply by **July 24** for your chance to join the program. ➡️ <https://vexpert.vmware.com> #VMware #Broadcom #Community
-
-### LinkedIn Post
-> 🔔 **vExpert 2025 Second-Half Applications Are OPEN**  
-> I’ve just submitted mine—have you? If you share VMware knowledge through blogs, talks, code, or mentorship, now’s the time to apply. Window closes **July 24**. Let me know if you need tips on the process! #vExpert #VMware #CareerGrowth
-
-### Podcast / Video Mention
-> “Quick community update: **vExpert 2025 applications are open from July 7 – July 24**. Whether you run a lab blog, host VMUG sessions, or answer questions in forums, get recognized for your contributions. Details at vexpert.vmware.com.”
-
-Feel free to remix these snippets for Mastodon, Threads, or your favorite platform—just be sure to tag **#vExpert** and include the deadline!
 
 ---
 
