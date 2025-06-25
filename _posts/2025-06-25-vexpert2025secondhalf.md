@@ -2,6 +2,7 @@
 layout: post
 title: "vExpert 2025 Second-Half Applications Open July 7!"
 date: 2025-06-25
+image: vexpert.png
 tags: [vmware, broadcom, vexpert, virtualization, community, advocacy, career, vmug]
 ---
 
