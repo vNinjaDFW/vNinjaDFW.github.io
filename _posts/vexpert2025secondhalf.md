@@ -1,69 +1,71 @@
-Here's a blog article in **Markdown** format you can use to announce the **2025 vExpert Second Half applications**:
+---
+layout: post
+title: "vExpert 2025 Second-Half Applications Open July 7!"
+date: 2025-06-25
+tags: [vmware, broadcom, vexpert, virtualization, community, advocacy, career, vmug]
+---
+
+# 🚨 vExpert 2025 Second-Half Applications Open July 7 – Here’s Your Quick-Start Guide
+
+Are you the go-to person for VMware tips in your circle? If you blog, vlog, speak, mentor, or otherwise champion VMware technologies, **now is the perfect time to be recognized**.  
+
+The **vExpert 2025 Second-Half** application window runs **July 7 – July 24**. Although the portal stays open year-round, this official cycle is when nominations **get reviewed and voted on**—so don’t miss it!
 
 ---
 
-```markdown
-# 🚨 vExpert 2025 Second Half Applications Open July 7th!
+## 📅 Key Program Milestones
 
-Are you passionate about VMware technologies? Do you share your knowledge with the community through blogs, presentations, videos, forums, or social media? If so, **this is your opportunity** to be recognized as a **VMware vExpert**!
-
-The **vExpert 2025 Second Half applications** officially **open on July 7th** and run through **July 24th**. While applications are accepted year-round, this is one of two official application periods—and the best time to apply and get noticed.
-
-## 🗓 Key Dates to Remember
-
-- **Applications Open:** July 7th – July 24th  
-- **Voting Period:** July 25th – August 14th  
-- **Announcement of New vExperts:** August 15th  
-
-## 💡 What is the vExpert Program?
-
-The **VMware vExpert** program is VMware’s global evangelism and advocacy initiative. It's designed to recognize individuals who go above and beyond in sharing their technical expertise and helping others succeed in the VMware ecosystem.
-
-vExperts get access to exclusive benefits including:
-
-- VMware licenses for personal use
-- Private webinars with VMware teams
-- Direct communication with VMware product managers
-- vExpert Slack channel access
-- vExpert certificate and badge
-
-…and more!
-
-## 👤 Who Should Apply?
-
-You should consider applying if you're:
-
-- A **blogger**, **YouTuber**, or **podcaster** who focuses on VMware technologies
-- A **VMware community leader**
-- A **speaker at VMUGs, events, or webinars**
-- An active **contributor in online forums or social media**
-- Someone who supports or promotes VMware in your region, company, or organization
-
-Even if you’ve applied in the past and weren’t selected, don’t give up—**many vExperts are accepted after applying more than once**. Use this time to reflect on your contributions and present them clearly.
-
-## ✅ How to Apply
-
-Head over to the [vExpert Portal](https://vexpert.vmware.com/) starting **July 7th** to submit your application. Make sure to detail your community contributions from the past year (including blogs, talks, videos, or mentoring).
+| Phase | Dates (2025) |
+|-------|--------------|
+| **Applications Open** | **July 7 – July 24** |
+| **Voting Period** | July 25 – August 14 |
+| **New vExperts Announced** | **August 15** |
 
 ---
 
-📣 **Help Spread the Word!**
+## 💡 Why Become a vExpert?
 
-Whether you're a current vExpert or a passionate member of the VMware community, **let others know** about the application window:
-
-- Share this post
-- Tweet or thread it out
-- Mention it on your podcast
-- Drop it in your LinkedIn network
-
-The more community advocates we recognize, the stronger the VMware ecosystem becomes.
+* **Licenses & NFR Keys** for personal labs  
+* **Exclusive briefings** and roadmap sessions with VMware/Broadcom product teams  
+* Invitation-only **slack & community channels**  
+* Early access to betas, evals, and event passes  
+* A globally recognized **vExpert badge** to amplify your résumé and personal brand  
 
 ---
 
-🔗 **Useful Links**
+## 📝 How to Apply (in 3 Steps)
 
-- [vExpert Program Overview](https://vexpert.vmware.com/)
+1. **Prepare Your Contributions**  
+   * List blogs, talks, videos, code repos, VMUG or community sessions, forum support, etc. from **July 2024 → July 2025**.  
+2. **Submit on the vExpert Portal**  
+   * Head to <https://vexpert.vmware.com> starting **July 7** and complete the form.  
+3. **Hit “Submit” & Share the News**  
+   * Let peers know you’ve applied—visibility matters!  
+
+> **Tip:** First-time applicant? Focus on consistent community impact rather than quantity alone.
 
 ---
 
-🙌 Good luck to all applicants—we hope to see **you** in the next class of **vExperts**!
+## 📣 Social Toolkit (Use on July 7)
+
+### Tweet / X
+> 🚨 Applications for **#vExpert 2025** (Second Half) open TODAY! If you’re blogging, speaking, or helping the @VMware community, apply by **July 24** for your chance to join the program. ➡️ <https://vexpert.vmware.com> #VMware #Broadcom #Community
+
+### LinkedIn Post
+> 🔔 **vExpert 2025 Second-Half Applications Are OPEN**  
+> I’ve just submitted mine—have you? If you share VMware knowledge through blogs, talks, code, or mentorship, now’s the time to apply. Window closes **July 24**. Let me know if you need tips on the process! #vExpert #VMware #CareerGrowth
+
+### Podcast / Video Mention
+> “Quick community update: **vExpert 2025 applications are open from July 7 – July 24**. Whether you run a lab blog, host VMUG sessions, or answer questions in forums, get recognized for your contributions. Details at vexpert.vmware.com.”
+
+Feel free to remix these snippets for Mastodon, Threads, or your favorite platform—just be sure to tag **#vExpert** and include the deadline!
+
+---
+
+## 🙌 Final Thoughts
+
+Recognition as a **vExpert** isn’t just a badge—it’s a gateway to deeper community involvement, direct product influence, and lifelong networking. If you’ve been on the fence, **make 2025 your year**. Good luck, and see you in the vExpert Slack!
+
+---
+
+*Questions or need a peer review of your application? Drop a comment below or ping me on X/LinkedIn—always happy to help future vExperts succeed.*  
