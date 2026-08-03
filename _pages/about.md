@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-image: vninja_blackwhite.jpg
+image: vninja_blackwhite.png
 permalink: /about/
 ---
 Hello! I’m Ryan Patel, a results-driven Master Principal Cloud Architect with over 25 years of experience in designing and implementing large-scale data centers. My expertise lies in hybrid-cloud solutions and software-defined architectures, where I focus on delivering innovative, scalable, and efficient infrastructures tailored to meet the evolving needs of modern businesses.  
