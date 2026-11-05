@@ -4,27 +4,31 @@ title: About Me
 image: vninja_blackwhite.png
 permalink: /about/
 ---
-Hello! I’m Ryan Patel, a results-driven Master Principal Cloud Architect with over 25 years of experience in designing and implementing large-scale data centers. My expertise lies in hybrid-cloud solutions and software-defined architectures, where I focus on delivering innovative, scalable, and efficient infrastructures tailored to meet the evolving needs of modern businesses.  
+Hello! I'm Ryan Patel, a Principal Cloud Solutions Architect at NetApp, where I'm part of the team building NetApp's Oracle Cloud Infrastructure (OCI) practice. I help customers run enterprise workloads and data on OCI, from VMware migrations to AI-ready data platforms, without re-architecting what already works.
 
-I am honored to be recognized as both a VMware vExpert and vExpert PRO, reflecting my commitment to sharing knowledge and expertise within the VMware community. Additionally, I proudly serve as a VMUG (VMware User Group) Leader for the Dallas/Fort Worth region, where I actively engage with industry professionals, lead discussions, and foster collaboration around VMware technologies.  
+Before joining NetApp, I spent six years inside OCI on the Oracle Cloud VMware Solution (OCVS) team. While there, I helped co-develop and validate NetApp's first-party storage service on OCI, so I now get to keep building on that work from NetApp's side of the partnership.
 
-## Areas of Expertise  
+My career spans over 25 years of designing and delivering enterprise data center and hybrid-cloud architectures, starting with VMware in 2001. I've worked across pre-sales, solution architecture, and partner co-selling with global systems integrators, always focused on connecting deep technical design to real business outcomes.
 
-- **Hybrid-Cloud Solutions**  
-- **Software-Defined Architectures**  
-- **Pre-Sales Strategy**  
-- **Business Development & Growth**  
-- **Partner Recruitment & Enablement**  
-- **Product Management & Go-to-Market Planning**  
-- **Advisory & Consulting Services**  
+I'm honored to be recognized as a VMware vExpert and vExpert PRO, and I proudly serve as a VMUG Leader for the Dallas/Fort Worth region, bringing practitioners together to share knowledge and solve real-world problems.
 
-Being part of the VMware ecosystem has been an incredible journey, and I’m passionate about helping others navigate their cloud and virtualization challenges. Feel free to connect with me to discuss cloud strategies, VMware technologies, or any of the areas above. Let’s collaborate and drive innovation together!  
+## Areas of Expertise
 
-[Certification and Badge Verification][your-acclaim]
+- **NetApp Storage on Oracle Cloud Infrastructure (OCI)**
+- **VMware Migrations to Oracle Cloud VMware Solution (OCVS)**
+- **Enterprise Data Infrastructure for AI Workloads**
+- **Hybrid-Cloud & Software-Defined Data Center Design**
+- **Pre-Sales Architecture & Technical Strategy**
+- **GSI & Partner Co-Sell Enablement**
+- **Community Leadership & Technical Advocacy**
+
+I write here about cloud architecture, data infrastructure, VMware, OCI, and lessons learned along the way. Feel free to connect to talk strategy, swap ideas, or work through a tough design problem together.
+
+[Certification and Badge Verification][credly]
 
 [vExpert Directory][vexpert-dir]
 
-[your-acclaim]: https://www.youracclaim.com/users/vninjadfw/badges?sort=-state_updated_at&page=1
+[credly]: https://www.credly.com/users/vninjadfw/badges
 [vexpert-dir]: https://vexpert.vmware.com/directory/3465
 
 <h4>Disclaimer</h4>
