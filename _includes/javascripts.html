@@ -14,3 +14,25 @@
 <script src="{{ site.baseurl }}/js/jquery.waitforimages.min.js"></script>
 <script src="{{ site.baseurl }}/js/jquery.fitvids.js"></script>
 <script src="{{ site.baseurl }}/js/common.js"></script>
+<!-- Mermaid diagram rendering for ```mermaid code blocks -->
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var blocks = document.querySelectorAll(
+      "code.language-mermaid, div.language-mermaid code, pre.language-mermaid code"
+    );
+    var nodes = [];
+    blocks.forEach(function (code) {
+      var wrapper = code.closest("div.language-mermaid") || code.closest("pre") || code;
+      var div = document.createElement("div");
+      div.className = "mermaid";
+      div.textContent = code.textContent;   // unescaped diagram source
+      wrapper.replaceWith(div);
+      nodes.push(div);
+    });
+    if (nodes.length) {
+      mermaid.initialize({ startOnLoad: false, theme: "default" });
+      mermaid.run({ nodes: nodes });
+    }
+  });
+</script>
